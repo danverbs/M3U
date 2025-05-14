@@ -1,0 +1,1144 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/640px-BBC_One_logo_2021.svg.png" group-title="Entertainment", BBC One
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/iptv_hd_abr_v1.m3u8
+
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png" group-title="Entertainment", BBC Two
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" group-title="Entertainment", ITV 1
+http://tv1.tvendirect.online:8080/vNqwkr3j9MwP/FPUcMVXz4rSk1/414460
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-uk.png" group-title="Entertainment", Channel 4
+https://wowza5.leisertv.com/live/channel4hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png" group-title="Entertainment", 5
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/303874
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-2-uk.png" group-title="Entertainment", ITV 2
+http://tv1.tvendirect.online:8080/vNqwkr3j9MwP/FPUcMVXz4rSk1/414748
+
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/640px-BBC_Four_logo_2021.svg.png" group-title="Entertainment", BBC Four
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/e-4-uk.png" group-title="Entertainment", E4
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/303876
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-3-uk.png" group-title="Entertainment", ITV 3
+http://tv1.tvendirect.online:8080/vNqwkr3j9MwP/FPUcMVXz4rSk1/414752
+
+#EXTINF:-1 tvg-id="BBCScotland.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/640px-BBC_Scotland_2021_%28channel%29.svg.png" group-title="Entertainment", BBC Scotland
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/u-and-dave-uk.png" group-title="Entertainment", U&Dave
+https://wowza5.leisertv.com/live/davehd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-uk.png" group-title="Entertainment", ITV 4
+http://tv1.tvendirect.online:8080/vNqwkr3j9MwP/FPUcMVXz4rSk1/414756
+
+#EXTINF:-1 tvg-id="BBCThree.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/640px-BBC_Three_2022.svg.png" group-title="Entertainment", BBC Three
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/e-4-extra-uk.png" group-title="Entertainment", E4 Extra
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/299185
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-be-uk.png" group-title="Entertainment", ITV Be
+http://tv1.tvendirect.online:8080/vNqwkr3j9MwP/FPUcMVXz4rSk1/414835
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-action-uk.png" group-title="Entertainment", 5ACTION
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/295070
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-usa-uk.png" group-title="Entertainment", 5USA
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1579
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/u-and-w-uk.png" group-title="Entertainment", U&W
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/302472
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/u-and-eden-uk.png" group-title="Entertainment", U&Eden
+http://92.114.85.72:8000/play/a0b1
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-showcase-uk.png" group-title="Entertainment", Sky Showcase
+http://lunar.pm:8080/Sharron/cs7VBcDYAPRt/20778
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-atlantic-uk.png" group-title="Entertainment", Sky Atlantic
+http://lunar.pm:8080/Sharron/cs7VBcDYAPRt/20772
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-witness-uk.png" group-title="Entertainment", Sky Witness
+http://lunar.pm:8080/Sharron/cs7VBcDYAPRt/20769
+
+#EXTINF:-1 tvg-id="5STAR.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-star-uk.png" group-title="Entertainment", 5STAR
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/4633
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/4-seven-uk.png" group-title="Entertainment", 4seven
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/4625
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/u-and-yesterday-uk.png" group-title="Entertainment", U&Yesterday
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1065
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Antenna_TV_2022_logo.png" group-title="Entertainment", Antenna TV
+http://108.14.66.101:5004/auto/v11.2
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/5-select-uk.png" group-title="Entertainment", 5SELECT
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/4631
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-max-uk.png" group-title="Entertainment", Sky Max
+http://lunar.pm:8080/Sharron/cs7VBcDYAPRt/110303
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Catchy_Comedy_logo.svg/440px-Catchy_Comedy_logo.svg.png" group-title="Entertainment", Catchy Comedy
+http://108.14.66.101:5004/auto/v5.5
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/u-and-alibi-uk.png" group-title="Entertainment", U&Alibi
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/695
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/u-and-drama-uk.png" group-title="Entertainment", U&Drama
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/4638
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Dabl_logo.svg/410px-Dabl_logo.svg.png" group-title="Entertainment", Dabl
+http://108.14.66.101:5004/auto/v2.3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heroes_%26_Icons_logo.svg/1280px-Heroes_%26_Icons_logo.svg.png" group-title="Entertainment", Heroes & Icons
+http://108.14.66.101:5004/auto/v9.4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Rewind_TV_logo.png/400px-Rewind_TV_logo.png" group-title="Entertainment", Rewind TV (US)
+http://108.14.66.101:5004/auto/v11.4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/GetTV-logo.png" group-title="Entertainment", Get TV
+http://fl2.moveonjoy.com/GET_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Amazon.US.GETComedy" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/GET_Comedy._SL170_FMpng_.png" group-title="Entertainment", GET Comedy
+http://pinkpony.lol:80/live/Heather/Heather/369032.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/u-and-gold-uk.png" group-title="Entertainment", U&Gold
+https://wowza5.leisertv.com/live/goldhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flavour_Network_logo.svg/440px-Flavour_Network_logo.svg.png" group-title="Entertainment", Flavour Network
+http://defaultgen.com:3050/azn197000@gmail.com/lP8CT41OOv/418465
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Home_Network_logo.svg/440px-Home_Network_logo.svg.png" group-title="Entertainment", Home Network
+http://defaultgen.com:3050/azn197000@gmail.com/lP8CT41OOv/418549
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wixstatic.com/media/093810_910ef4ab1a414c42b6a403ee48cc0b2e~mv2.png/v1/fill/w_418,h_314,al_c,lg_1,q_85,enc_avif,quality_auto/c9b69f_9c13da2a4323456e8caac1f6fafca113~mv2.png" group-title="Entertainment", 365BLK
+http://108.14.66.101:5004/auto/v48.3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wixstatic.com/media/c9b69f_d1a226f6aeb9451bb1b1807473228d0a~mv2.png/v1/fill/w_314,h_236,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c9b69f_d1a226f6aeb9451bb1b1807473228d0a~mv2.png" group-title="Entertainment", Outlaw
+http://108.14.66.101:5004/auto/v48.4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/defy-us.png" group-title="Entertainment", Defy
+http://205.196.146.91:5004/auto/v7.3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wixstatic.com/media/c9b69f_1e7dee9074ed4fa4aea5c6f44188d4c4~mv2.png/v1/fill/w_260,h_62,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/c9b69f_1e7dee9074ed4fa4aea5c6f44188d4c4~mv2.png" group-title="Entertainment", Busted
+http://108.14.66.101:5004/auto/v31.7
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/true-crime-network-us.png" group-title="Entertainment", True Crime Network
+http://108.14.66.101:5004/auto/v68.2
+
+#EXTINF:-1 tvg-id="Quest.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/quest-us.png" group-title="Entertainment", Quest (US)
+http://208.89.99.124:5004/auto/v43.5
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/rewind-tv-uk.png" group-title="Entertainment", Rewind TV (UK)
+http://iptvtree.net:8080//live/test_acct/ohbo1veifa4AhD/305442.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="Entertainment", ION
+http://fl2.moveonjoy.com/ION_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ion-plus-us.png" group-title="Entertainment", ION Plus
+http://108.14.66.101:5004/auto/v31.5
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Merit_Street_Media_2024_1.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment", Merit Street
+http://108.14.66.101:5004/auto/v63.1
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://logonoid.com/images/tv-land-logo.png" group-title="Entertainment", TV Land
+http://fl2.moveonjoy.com/TV_Land/index.m3u8
+
+#EXTINF:-1 tvg-id="classic/tv.cube" tvg-logo="https://owncast.funcube.space/logo" group-title="Entertainment", classic/tv.cube
+https://owncast.funcube.space/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/24-kitchen-nl.png" group-title="Entertainment", 24 Kitchen
+http://81.172.156.168:9981/stream/channelid/1112754213?ticket=08fd529ca3dd65c8f29e7d0a4d77cf4d07fcea59&profile=pass
+
+#EXTINF:-1 tvg-id="123e5699d2d201311ec9466ea672a78d" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/quest-uk.png" group-title="Entertainment", QUEST (UK)
+http://lunar.pm:8080/Sharron/cs7VBcDYAPRt/20789
+
+#EXTINF:-1 tvg-id="7754b1becc5afb04b03a6d0ef6f6984e" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/quest-red-uk.png" group-title="Entertainment", Quest Red
+http://defaultgen.com:3050/azn197000@gmail.com/lP8CT41OOv/507966
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/comedy-central-uk.png" group-title="Entertainment", Comedy Central
+http://defaultgen.com:3050/azn197000@gmail.com/lP8CT41OOv/507907
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/comedy-central-extra-uk.png" group-title="Entertainment", Comedy Central Extra
+http://defaultgen.com:3050/azn197000@gmail.com/lP8CT41OOv/507909
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-arts-uk.png" group-title="Entertainment", Sky Arts
+http://lunar.pm:8080/Sharron/cs7VBcDYAPRt/105633
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-comedy-uk.png" group-title="Entertainment", Sky Comedy
+http://lunar.pm:8080/Sharron/cs7VBcDYAPRt/105634
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-crime-uk.png" group-title="Entertainment", Sky Crime
+http://lunar.pm:8080/Sharron/cs7VBcDYAPRt/105635
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-documentaries-uk.png" group-title="Entertainment", Sky Documentaries
+http://zorrohunter.com:80/live/WeaponX/Dawkins22/47827.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-nature-uk.png" group-title="Entertainment", Sky Nature
+http://zorrohunter.com:80/live/WeaponX/Dawkins22/47830.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-history-uk.png" group-title="Entertainment", Sky History
+http://zorrohunter.com:80/live/WeaponX/Dawkins22/47780.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-history-2-uk.png" group-title="Entertainment", Sky History 2
+http://defaultgen.com:3050/azn197000@gmail.com/lP8CT41OOv/508090
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-replay-uk.png" group-title="Entertainment", Sky Replay
+http://lunar.pm:8080/Sharron/cs7VBcDYAPRt/105636
+
+#EXTINF:-1 tvg-id="SkySci-Fi.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sci-fi-uk.png" group-title="Entertainment", Sky Sci-Fi
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/16727.m3u8
+
+#EXTINF:-1 tvg-id="SkyMix.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-mix-uk.png" group-title="Entertainment", Sky Mix
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/3958.m3u8
+
+#EXTINF:-1 tvg-id="Challenge.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/challenge-uk.png" group-title="Entertainment", Challenge
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/14945.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/discovery-channel-uk.png" group-title="Entertainment", Discovery Channel
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/303862
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/discovery-history-uk.png" group-title="Entertainment", Discovery History
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/694
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/discovery-home-and-health-uk.png" group-title="Entertainment", Discovery Home & Health
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/282757
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/discovery-science-uk.png" group-title="Entertainment", Discovery Science
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300573
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/discovery-turbo-uk.png" group-title="Entertainment", Discovery Turbo
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1114
+
+#EXTINF:-1 tvg-id="TLC.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tlc-uk.png" group-title="Entertainment", TLC
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/4027.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/csn/images/2/28/CSNLogo4.png" group-title="Entertainment", CSN
+http://streamlinecsn.online:8080/memfs/eda3c430-a21e-4ea7-87d6-68db49abbeaf.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/csn/images/c/c7/CSNX.png" group-title="Entertainment", CSNX
+http://streamlinecsn.online:8080/memfs/73188a9a-ff81-487c-867f-15b7be6c6ccd.m3u8
+
+#EXTINF:-1 tvg-id="Kanade.cl" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/kanade_tv.png" group-title="Entertainment", Kanade
+https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/csn/images/1/16/BN.png" group-title="Entertainment", Boxnet
+http://streamlinecsn.online:8080/memfs/df48901b-57eb-4341-b155-730b2bbee3e9.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/csn/images/5/56/Slash.png/revision/latest?cb=20250213212516" group-title="Entertainment", Slash
+https://plyr.streamlinecsn.online/memfs/c00be47f-88f3-4044-b6ee-78a04f501b7e.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/csn/images/2/2f/Plus.png" group-title="Entertainment", Anime Central
+https://plyr.streamlinecsn.online/memfs/3356d46f-973a-46ad-8f7d-d2045baa01df.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webchnl.live/assets/img/channelicons/animania.png" group-title="Entertainment", Animania
+https://useast-1.webchnl.live/memfs/e04359ae-483c-4e36-82c9-1383190fb810.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webchnl.live/assets/img/channelicons/ripple.png" group-title="Entertainment", Ripple
+https://useast-1.webchnl.live/memfs/49de7f09-1dc8-4165-a855-470688c07037.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webchnl.live/assets/img/channelicons/bopptv.png" group-title="Entertainment", BoppTV
+https://chnl.orbitmedia.live/memfs/0625d365-e054-4595-83ca-cf6435da1211.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webchnl.live/assets/img/channelicons/donebetter.png" group-title="Entertainment", DoneBetter
+https://chnl.orbitmedia.live/memfs/98b5d386-ee3d-4882-84c0-59587066a13c.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/south-africa/m-net-za.png" group-title="Entertainment", M-Net
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/663128.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bet-us.png" group-title="Entertainment", BET
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/663083.ts
+
+#EXTINF:-1 tvg-id="MTV.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mtv-uk.png" group-title="Entertainment", MTV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/507959.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/universal-tv-int.png" group-title="Entertainment", Universal TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/663176.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://comedy.tv/files/2018/09/cropped-COMEDY.TV_LOGO-1.png" group-title="Entertainment", Comedy.tv
+http://user.scalecdn.co:8080/live/26725074/92867131/77411.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Justice-Central.TV.png/revision/latest?cb=20230921223254" group-title="Entertainment", Justice Central
+http://user.scalecdn.co:8080/live/26725074/92867131/74679.m3u8
+
+#EXTINF:-1 tvg-id="TV" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/pets-tv-us.png" group-title="Entertainment", Pets.tv
+http://lunar.pm:8080/Sharron/cs7VBcDYAPRt/110048
+
+#EXTINF:-1 tvg-id="Talking Pictures TV" tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/talking-pictures-tv-uk.png" group-title="Entertainment", Talking Pictures TV
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/20328.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/pbs-america-uk.png" group-title="Entertainment", PBS America
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/14870.m3u8
+
+#EXTINF:-1 tvg-id="DogTV.us" tvg-logo="https://i.ibb.co/yPhnmz1/dog-tv-us.png" group-title="Entertainment", DOGTV
+http://defaultgen.com:3050/azn197000@gmail.com/lP8CT41OOv/417932
+
+#EXTINF:-1 tvg-id="Legend.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Legend_TV_logo.svg/640px-Legend_TV_logo.svg.png" group-title="Entertainment", Legend
+http://iptvtree.net:8080//live/test_acct/ohbo1veifa4AhD/299735.m3u8
+
+#EXTINF:-1 tvg-id="LegendXtra.uk" tvg-logo="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Legend-Xtra.png" group-title="Entertainment", LegendXtra
+http://iptvtree.net:8080//live/test_acct/ohbo1veifa4AhD/302568.m3u8
+
+#EXTINF:-1 tvg-id="TrueCrime.uk" tvg-logo="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-UK.png" group-title="Entertainment", True Crime
+http://iptvtree.net:8080//live/test_acct/ohbo1veifa4AhD/63226.m3u8
+
+#EXTINF:-1 tvg-id="TrueCrimeXtra.uk" tvg-logo="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-Xtra.png" group-title="Entertainment", True Crime Xtra
+http://iptvtree.net:8080//live/test_acct/ohbo1veifa4AhD/4647.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/game-toon-int.png" group-title="Entertainment", Gametoon
+http://iptvtree.net:8080//live/test_acct/ohbo1veifa4AhD/265257.m3u8
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/WarnerTV_2021.png" group-title="Entertainment", Warner TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/605363.m3u8
+
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/crime-and-investigation-uk.png" group-title="Entertainment", Crime & Investigation
+http://510821146289.cdn-eag.com:80/live/mjd24_141990/8yEtPc10/205896.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/65775e07dfed030008cb3f47/colorLogoPNG.png" group-title="Entertainment", 4UV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65775e07dfed030008cb3f47/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b271627c-19e7-11f0-b658-7848c7d4d5a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0bd9bade-10a3-42d3-89c8-d3fc5f7d84d5&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/6793ea255225b515b4ba91a7/colorLogoPNG.png" group-title="Entertainment", ALLBLK Gems
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6793ea255225b515b4ba91a7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b2716042-19e7-11f0-9903-7848c7d4d5a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d4b7428-9461-46fb-817e-ac4044f5f23d&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="Entertainment", Bounce XL
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6176fd25e83a5f0007a464c9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b2715fe8-19e7-11f0-9f1b-7848c7d4d5a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=de3fdd83-6794-4d0a-b515-bc776238060c&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png" group-title="Entertainment", ET
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc0c78281eddb0009a02d5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b27162d6-19e7-11f0-8195-7848c7d4d5a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=17079f20-2eb3-431a-a394-4e94c57757c2&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/colorLogoPNG.png" group-title="Entertainment", Paramount+ Picks
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b2715df4-19e7-11f0-bdcd-7848c7d4d5a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=24c9793d-6ab1-4c9a-bc7b-7af5aef94f00&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="99951255" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/universal_westerns._SL170_FMpng_.png" group-title="Entertainment", Universal Westerns
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951255/hls/master.m3u8?ads.xumo_channelId=99951255&ads.asnw=169843&ads.afid=380752734&ads.sfid=19301248&ads.csid=xumo_web_NBCUUniversalWesterns_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=560d89c1-2adb-43d9-bfa6-2b308417ce88&ads._fw_vcid2=512116:560d89c1-2adb-43d9-bfa6-2b308417ce88&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=xumo&ads.xumo_contentId=3947&ads.xumo_contentName=NBCUUniversalWesterns&ads.xumo_providerId=3947&ads.xumo_providerName=NBCUUniversalWesterns&ads.channelId=99951255&ads._fw_ifa_type=
+
+#EXTINF:-1 tvg-id="99951244" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/nbc_comedy_vault._SL170_FMpng_.png" group-title="Entertainment", NBC Comedy Vault
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951244/hls/master.m3u8?ads.xumo_channelId=99951244&ads.asnw=169843&ads.afid=380749282&ads.sfid=19316528&ads.csid=xumo_web_NBCUTNBC_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=c95b14ca-be73-46c9-8f60-36fc2e379ea6&ads._fw_vcid2=512116:c95b14ca-be73-46c9-8f60-36fc2e379ea6&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=xumo&ads.xumo_contentId=3941&ads.xumo_contentName=NBCUTNBC&ads.xumo_providerId=3941&ads.xumo_providerName=NBCUTNBC&ads.channelId=99951244&ads._fw_ifa_type=
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-612919784f53e1002c9aa219" tvg-logo="https://provider-static.plex.tv/epg/cms/production/138a25f8-6dfb-4a03-bbec-acaa84628fcd/awty-logo-2.png" group-title="Entertainment", Are We There Yet?
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-612919784f53e1002c9aa219.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6668c7f889c051b3733f9b63" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5fe34108-d68c-4cae-9d9a-9109f8186f5f/GREAT_-comedy-WHite_Color-_Nicholas_FoundoukisRDX.png" group-title="Entertainment", GREAT! comedy
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6668c7f889c051b3733f9b63.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1_800x200_white.png" group-title="Entertainment", LG 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10957&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/rte-one-uk.png" group-title="Entertainment", RTÉ1
+http://154.58.225.25:9999/rte1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/rte-2-uk.png" group-title="Entertainment", RTÉ2
+http://154.58.225.25:9999/rte2/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tg-4-uk.png" group-title="Entertainment", TG4
+https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/virgin-media-one-uk.png" group-title="Entertainment", Virgin Media 1
+https://tvnow.best/api/stream/burns/burns/livetv.epg/virgin.media.one.uk.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/virgin-media-two-uk.png" group-title="Entertainment", Virgin Media 2
+https://tvnow.best/api/stream/burns/burns/livetv.epg/virgin.media.two.uk.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/virgin-media-three-uk.png" group-title="Entertainment", Virgin Media 3
+https://tvnow.best/api/stream/burns/burns/livetv.epg/virgin.media.three.uk.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/virgin-media-four-uk.png" group-title="Entertainment", Virgin Media 4
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_four/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pixvid.org/images/2025/01/16/sky-action.png" group-title="Sports", Sky Sports Action
+https://a1xs.vip/2000011
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="Sports", Sky Sports Cricket
+https://a1xs.vip/2000006
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sports", Sky Sports F1
+https://a1xs.vip/2000005
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="Sports", Sky Sports Football
+https://a1xs.vip/2000003
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="Sports", Sky Sports Golf
+https://a1xs.vip/2000009
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="Sports", Sky Sports Main Event
+https://a1xs.vip/2000001
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="Sports", Sky Sports Mix
+https://a1xs.vip/2000008
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="Sports", Sky Sports News
+https://a1xs.vip/2000004
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="Sports", Sky Sports Premier League
+https://a1xs.vip/2000002
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pixvid.org/images/2025/01/15/sky-sports-racing-logo-2048.png" group-title="Sports", Sky Sports Racing
+https://a1xs.vip/2000010
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pixvid.org/images/2025/01/21/Sky_Sports_Tennis.png" group-title="Sports", Sky Sports Tennis
+https://a1xs.vip/2000013
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pixvid.org/images/2025/01/21/Sky_Sportsplus.png" group-title="Sports", Sky Sports+
+https://a1xs.vip/2000012
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/zJR49VW/TNT-Sports-1.png" group-title="Sports", TNT Sports 1
+https://a1xs.vip/2000021
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/42MrDP7/TNT-Sports-2.png" group-title="Sports", TNT Sports 2
+https://a1xs.vip/2000022
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/vvFPJw0/TNT-Sports-3.png" group-title="Sports", TNT Sports 3
+https://a1xs.vip/2000023
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/Fnbw8VV/TNT-Sports-4.png" group-title="Sports", TNT Sports 4
+https://a1xs.vip/2000024
+
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="Sports", MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/lfctv-uk.png" group-title="Sports", LFC TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/508216.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2sm1mj1692971330.png" group-title="Sports", LaLiga TV
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/560087.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-mea.png" group-title="Sports", BeIN Sports
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+
+#EXTINF:-1 tvg-id="PremierSports1.ie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/premier-sports-1-uk.png" group-title="Sports", Premier Sports 1
+http://tvd.naam.ro:2082/live/joker111122/5438744454/40995.m3u
+
+#EXTINF:-1 tvg-id="PremierSports2.ie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/premier-sports-2-uk.png" group-title="Sports", Premier Sports 2
+http://tvd.naam.ro:2082/live/joker111122/5438744454/40994.m3u
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-one-ca.png" group-title="Sports", SportsNet One
+http://iptvtree.net:8080//live/test_acct/ohbo1veifa4AhD/3378.m3u8
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-world-ca.png" group-title="Sports", SportsNet World
+http://iptvtree.net:8080//live/test_acct/ohbo1veifa4AhD/280568.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/logos/FuboSports_Logo_OneColor_box_rgb.png?w=300&ch=width&auto=format,compress" group-title="Sports", Fubo Sports
+http://pinkpony.lol:80/live/Heather/Heather/251675.m3u8
+
+#EXTINF:-1 tvg-id="GB30003577" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Talksport_logo.png" group-title="Sports", talkSPORT
+https://jmp2.uk/sam-GB30003577.m3u8
+
+#EXTINF:-1 tvg-id="MGMPlusEast.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mgm-plus-us.png" group-title="Movies", MGM+
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/film-4-uk.png" group-title="Movies", Film4
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/1541
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.fmh.la/images/team/logo_animotion2.png" group-title="Movies", FMH ANIMOTION
+http://170.239.188.252:8000/play/a04g/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.fmh.la/images/team/logo_movies.png" group-title="Movies", FMH MOVIES RESTREAMER
+http://170.239.188.252:8000/play/a04b/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="Movies", Sony Movies
+http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+
+#EXTINF:-1 tvg-id="59c61d2f189251f075cbe2acb04d69e3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-action-uk.png" group-title="Movies", Sky Cinema Action
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/508107.ts
+
+#EXTINF:-1 tvg-id="de1ff182ed50066eed169155bcb3e106" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-family-uk.png" group-title="Movies", Sky Cinema Family
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/508117.ts
+
+#EXTINF:-1 tvg-id="45b28ca73b94f73943c2a9cc8cf32dab" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-greats-uk.png" group-title="Movies", Sky Cinema Greats
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/508119.ts
+
+#EXTINF:-1 tvg-id="skyanimation.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-animation-uk.png" group-title="Movies", Sky Cinema Animation
+http://defaultgen.com:3050/azn197000@gmail.com/lP8CT41OOv/508113
+
+#EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-comedy-uk.png" group-title="Movies", Sky Cinema Comedy
+http://defaultgen.com:3050/azn197000@gmail.com/lP8CT41OOv/508109
+
+#EXTINF:-1 tvg-id="e87fc7edc3c62bf78abcecd60c44dfc1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-premiere-uk.png" group-title="Movies", Sky Cinema Premiere
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/508123.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/csn/images/7/74/CSMovies2025.png" group-title="Movies", CSMovies
+http://streamlinecsn.online:8080/memfs/3b7df2f3-96ad-4b66-a8fc-7869027db360.m3u8
+
+#EXTINF:-1 tvg-id="1d1952623f810f8e688ca5bfa991473d" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/movies-24-uk.png" group-title="Movies", Movies24
+http://92.114.85.72:8000/play/a0gu
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://omgtv.stream/logo/188944" group-title="Movies", Studio Universal
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/663164.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/fmn-wht-epg-white.png?ch=width&auto=format%2Ccompress" group-title="Movies", Fubo Movies
+http://pinkpony.lol:80/live/Heather/Heather/253973.m3u8
+
+#EXTINF:-1 tvg-id="Amazon.US.AmazonMovies" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/s134756_lw_h8_ab._SL170_FMpng_.png" group-title="Movies", Amazon Movies
+http://pinkpony.lol:80/live/Heather/Heather/368984.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/Lifetime_Movies_WHITE_Logo_800x200.png" group-title="Movies", Lifetime Movies
+https://amg00276-aenetwork-amg00276c21-lg-gb-5291.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-lifetimemovies-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="News", CNN International
+http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/640px-BBC_News_2022_%28Alt%29.svg.png" group-title="News", BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/BBC_Parliament_2022.svg/640px-BBC_Parliament_2022.svg.png" group-title="News", BBC Parliament
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/pc_hd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/1024px-Sky_News_logo.svg.png" group-title="News", Sky News
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+
+#EXTINF:-1 tvg-id="TalkTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/TalkTV_logo.png" group-title="News", TalkTV
+https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News", DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News", Euronews
+https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="News", France 24 English
+https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="News", GB News
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="News", NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/nP9xpck/trtw.png" group-title="News", TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/russia-today-int.png" group-title="News", RT
+http://68.233.120.207:9981//stream/channelid/1569395588?ticket=b7fe7b8917fac39513d3b762dc740808447b5ed1&profile=pass
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="News", ABC News Live
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/M8wbVYK.png" group-title="News", AccuWeather Now
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News", LiveNOW from FOX
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/500px-CBS_News_247_logo.svg.png" group-title="News", CBS News 24/7
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://storage.googleapis.com/fitzytv-dvr.appspot.com/channel_icons/NBCNewsNow300x300.png" group-title="News", NBC News Now
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5df97894467dfa00091c873c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=213&terminate=false&userId=8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/cartoon-network-uk.png" group-title="Kids", Cartoon Network
+http://tv1.tvendirect.online:8080/vNqwkr3j9MwP/FPUcMVXz4rSk1/414609
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/boomerang-uk.png" group-title="Kids", Boomerang
+http://tv1.tvendirect.online:8080/vNqwkr3j9MwP/FPUcMVXz4rSk1/414618
+
+#EXTINF:-1 tvg-id="cartoonito.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/cartoonito-uk.png" group-title="Kids", Cartoonito
+http://tv1.tvendirect.online:8080/vNqwkr3j9MwP/FPUcMVXz4rSk1/414610
+
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/CBBC_%282023%29.svg/640px-CBBC_%282023%29.svg.png" group-title="Kids", CBBC
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/CBeebies_2023.svg/640px-CBeebies_2023.svg.png" group-title="Kids", CBeebies
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-kids-uk.png" group-title="Kids", Sky Kids
+http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/302301.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/500px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Kids", Nickelodeon
+http://zorrohunter.com:80/live/WeaponX/Dawkins22/47798.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicktoons_2023_Outlined_Logo.png/440px-Nicktoons_2023_Outlined_Logo.png" group-title="Kids", Nicktoons
+http://zorrohunter.com:80/live/WeaponX/Dawkins22/47799.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/480px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="Kids", Nick Jr.
+http://zorrohunter.com:80/live/WeaponX/Dawkins22/47796.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/nick-jr-too-uk.png" group-title="Kids", Nick Jr. Too
+http://zorrohunter.com:80/live/WeaponX/Dawkins22/47797.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Pop_UK_TV_Logo_%282015%29.svg/440px-Pop_UK_TV_Logo_%282015%29.svg.png" group-title="Kids", Pop
+http://defaultgen.com:3050/azn197000@gmail.com/lP8CT41OOv/508168
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Pop_Max_logo_2017.svg/440px-Pop_Max_logo_2017.svg.png" group-title="Kids", Pop Max
+http://defaultgen.com:3050/azn197000@gmail.com/lP8CT41OOv/508170
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tiny-pop-uk.png" group-title="Kids", Tiny Pop
+http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/264542.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/me-tv-toons-us.png" group-title="Kids", MeTV Toons
+http://defaultgen.com:3050/azn197000@gmail.com/lP8CT41OOv/648108
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/rte-jr-uk.png" group-title="Kids", RTÉjr
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/428324.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/cula-4-uk.png" group-title="Kids", Cúla4
+https://d3257a9rb0p5iy.cloudfront.net/tg4_live_cula4_main_3000_.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.fmh.la/images/team/logo_kids.png" group-title="Kids", FMH KIDS RESTREAMER
+http://170.239.188.252:8000/play/a04d/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DisneyChannelEMEA.svg/440px-DisneyChannelEMEA.svg.png" group-title="Kids", Disney Channel
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/663100.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-jr-us.png" group-title="Kids", Disney Jr
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/663101.ts
+
+#EXTINF:-1 tvg-id="babytv.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/baby-tv-uk.png" group-title="Kids", BabyTV
+http://tv1.tvendirect.online:8080/vNqwkr3j9MwP/FPUcMVXz4rSk1/414614
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/jimjam-int.png" group-title="Kids", JimJam
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/663123.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/south-africa/e-toonz-za.png" group-title="Kids", EToonz
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/663113.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dreamworks-tv-int.png" group-title="Kids", Dreamworks
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/663102.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://webchnl.live/assets/img/channelicons/spark.png" group-title="Kids", Spark
+https://useast-1.webchnl.live/memfs/dc4f9032-7cb8-472c-924c-d08d2dffe34f.m3u8
+
+#EXTINF:-1 tvg-id="US4500002UB" tvg-logo="https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F8f97e5e3-7bc1-41ad-a997-b27d74ce9ed2%2FtransparentColor_Logo__Light_Mattel_JR_RDX.png" group-title="Kids", Mattel Jr.
+https://jmp2.uk/sam-US4500002UB.m3u8
+
+#EXTINF:-1 tvg-id="US800003JM" tvg-logo="https://eu-central-1.linodeobjects.com/bbckids-prod-lke-cms-be/attachments/cl6a0g8780mwd2df36tv07vdf-bbc-kids-logo-215-width.png" group-title="Kids", BBC Kids
+https://jmp2.uk/sam-US800003JM.m3u8
+
+#EXTINF:-1 tvg-id="US2200006FS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200006FS_20240924T011019SQUARE.png" group-title="Kids", Shaun the Sheep & Friends
+https://jmp2.uk/sam-US2200006FS.m3u8
+
+#EXTINF:-1 tvg-id="USAK3508716A" tvg-logo="https://provider-static.plex.tv/epg/cms/production/785ee254-61da-47ed-a734-6f00be0444fb/Kidoodle.TV_Channel_Logo1500x1000rdx.png" group-title="Kids", Kidoodle.TV
+https://jmp2.uk/sam-USAK3508716A.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6745dca72832b870acf5321f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/87269d0e-0209-4bae-b5bc-aa42e2ba7aa5/Garfield_Friends_LogoColorRDX.png" group-title="Kids", 9 Story Presents: Garfield and Friends
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6745dca72832b870acf5321f.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-656fb124cb7e8e6a9bc3f36a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ca4eaf02-b31d-4b56-8cad-1ff4601bb17b/KB_PLEX_1500x1000_Logo-Light-BG_-_James_Stowe.png" group-title="Kids", Kidz Bop TV
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-656fb124cb7e8e6a9bc3f36a.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-671c1743128bc4121f80aef5" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d1388332-0aee-4da1-9d42-1c2c9c00ab6c/BARNEY_LOGO_COLOR_dylan_canfieldRDX.png" group-title="Kids", Barney and Friends
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-671c1743128bc4121f80aef5.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d60b898490041b49359" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1a85f23b-2648-4636-af3d-1d69b3721200/toongoggles_logo_light_1500x1000.png" group-title="Kids", Toon Goggles
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f170d60b898490041b49359.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/NickMusic_Purple.svg/512px-NickMusic_Purple.svg.png" group-title="Music", NickMusic
+http://185.236.229.62:9981/play/a064
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mtv-90s-uk.png" group-title="Music", MTV 90s
+http://185.236.229.62:9981/play/a07f
+
+#EXTINF:-1 tvg-id="MTVClassicEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" group-title="Music", MTV Classic East
+https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
+
+#EXTINF:-1 tvg-id="MTVLive.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/440px-MTV_Live_2021_logo.svg.png" group-title="Music", MTV Live
+http://190.102.246.93:9005/play/a01p
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mtv-music-uk.png" group-title="Music", MTV Music
+http://defaultgen.com:3050/azn197000@gmail.com/lP8CT41OOv/508020
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mtv-80s-uk.png" group-title="Music", MTV 80s
+http://defaultgen.com:3050/azn197000@gmail.com/lP8CT41OOv/508014
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/mtv-hits-uk.png" group-title="Music", MTV Hits
+http://lunar.pm:8080/Sharron/cs7VBcDYAPRt/105738
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/250px-Club_MTV_2021_logo.svg.png" group-title="Music", Club MTV
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/300936
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Music", MTV 00s
+http://iptvtree.net:8080//live/test_acct/ohbo1veifa4AhD/306681.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VIVA_2011_logo.svg/500px-VIVA_2011_logo.svg.png" group-title="Music", VIVA
+https://chnl.orbitmedia.live/memfs/cec1b7bb-787e-4ba2-a5fc-f26c2e170e20.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/xite-nl.png" group-title="Music", XITE
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/34791.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/clubland-uk.png" group-title="Music", Clubland TV
+http://defaultgen.com:3050/azn197000@gmail.com/lP8CT41OOv/508022
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/now-70s-uk.png" group-title="Music", Now 70s
+http://lunar.pm:8080/Sharron/cs7VBcDYAPRt/116991
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/now-80s-uk.png" group-title="Music", Now 80s
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/92442.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/NOW_90s_%26_00s.png/revision/latest?cb=20240610220031" group-title="Music", Now 90s and 00s
+http://lunar.pm:8080/Sharron/cs7VBcDYAPRt/116993
+
+#EXTINF:-1 tvg-id="NowRock.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png" group-title="Music", Now Rock
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/15053.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/SOUNDCITY_AFRICA_LOGO.png/440px-SOUNDCITY_AFRICA_LOGO.png" group-title="Music", Soundcity
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/663160.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/TV-538-RGB_new.png" group-title="Music", TV 538
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/16979.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://streamlinecsn.online/images/channel-logos/hammer.png" group-title="Music", Hammer
+https://plyr.streamlinecsn.online/memfs/7094d23d-3702-4c2f-bc06-de25aac1d065.m3u8
+
+#EXTINF:-1 tvg-id="QVCUK.uk" tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="Shopping", QVC UK
+https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/3/3.m3u8
+
+#EXTINF:-1 tvg-id="QVCExtraUK.uk" tvg-logo="https://i.imgur.com/TIe5T9Z.png" group-title="Shopping", QVC Extra
+https://qvcuk-live.akamaized.net/hls/live/2097112/qex/3/3.m3u8
+
+#EXTINF:-1 tvg-id="QVCBeautyUK.uk" tvg-logo="https://i.imgur.com/ZBHtqk1.png" group-title="Shopping", QVC Beauty
+https://qvcuk-live.akamaized.net/hls/live/2097112/qby/3/3.m3u8
+
+#EXTINF:-1 tvg-id="QVCStyleUK.uk" tvg-logo="https://i.imgur.com/6HZlLL3.png" group-title="Shopping", QVC Style
+https://qvcuk-live.akamaized.net/hls/live/2097112/qst/3/3.m3u8
+
+#EXTINF:-1 tvg-id="TBNEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TBN_logo_2015.jpg/512px-TBN_logo_2015.jpg" group-title="Religious", TBN (US)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d486b2eeddd9576d66f9066/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a3bb369c-6039-4656-a79d-8e87112a8232
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://watch.tbn.uk/static/images/logos/tbn-logo.png" group-title="Religious", TBN UK
+http://92.114.85.72:8000/play/a0nj
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/ewtn-int.png" group-title="Religious", EWTN Catholic
+http://92.114.85.72:8000/play/a0nm
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/faith-uk-uk.png" group-title="Religious", Faith UK
+http://92.114.85.72:8000/play/a0ku
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.squarespace-cdn.com/content/v1/64a60b938b55ab0ad536728e/c0a45c4c-3584-4c80-9ee3-b7861c2a1dae/SBN+Red+Solid_LogoWithTagline.png?format=1500w" group-title="Religious", SonLife
+http://92.114.85.72:8000/play/a0ol
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/RTL_Logo_2021.svg/500px-RTL_Logo_2021.svg.png" group-title="International", RTL
+http://178.219.128.68:64888/RTL
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/1280px-RTLZWEI_Logo_2019.svg.png" group-title="International", RTL Zwei
+http://178.219.128.68:64888/RTL2
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/SAT.1_logo_2016.png" group-title="International", Sat.1
+http://178.219.128.68:64889/SAT1
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/VOX_Logo_2013.svg/400px-VOX_Logo_2013.svg.png" group-title="International", VOX
+http://178.219.128.68:64888/VOX
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RTL_Super_Logo_2023.svg/440px-RTL_Super_Logo_2023.svg.png" group-title="International", RTL Super
+http://178.219.128.68:64888/SUPERTL
+
+#EXTINF:-1 tvg-id="TOGGOplus.de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/toggo-plus-de.png" group-title="International", TOGGO plus
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/12323.m3u8
+
+#EXTINF:-1 tvg-id="WarnerTVComedy.de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/warner-tv-comedy-de.png" group-title="International", Warner TV Comedy
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/15577.m3u8
+
+#EXTINF:-1 tvg-id="WarnerTVFilm.de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/warner-tv-film-de.png" group-title="International", Warner TV Film
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/16628.m3u8
+
+#EXTINF:-1 tvg-id="WarnerTVSerie.de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/warner-tv-serie-de.png" group-title="International", Warner TV Serie
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/14303.m3u8
+
+#EXTINF:-1 tvg-id="KabelEins.de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/kabel-eins-de.png" group-title="International", Kabel Eins
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/125857.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/NRK1_Logo_2024.svg/400px-NRK1_Logo_2024.svg.png" group-title="International", NRK 1
+http://ott.dobratv.net:25461/live/TeleskyGradacac/OlhzoyCMyn/15299.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/NRK2_Logo_2024.svg/400px-NRK2_Logo_2024.svg.png" group-title="International", NRK 2
+http://ott.dobratv.net:25461/live/TeleskyGradacac/OlhzoyCMyn/15300.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo1-nl.png" group-title="International", NPO 1
+http://86.85.245.213:9981/stream/channelid/1459514?profile=pass
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo2-nl.png" group-title="International", NPO 2
+http://86.85.245.213:9981/stream/channelid/334057814?profile=pass
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/npo-zapp-nl.png" group-title="International", NPO Zapp/NPO 3
+http://86.85.245.213:9981/stream/channelid/318691951?profile=pass
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/rtl-telekids-nl.png" group-title="International", RTL Telekids
+http://iptvtree.net:8080//live/test_acct/ohbo1veifa4AhD/4508.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/vrt-1-be.png" group-title="International", VRT 1
+http://81.172.156.168:9981/stream/channelid/1922516378?profile=pass
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/vrt-canvas-be.png" group-title="International", VRT Canvas
+http://85.144.247.244:9981/stream/channelid/1572047711?profile=pass
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/ketnet-be.png" group-title="International", Ketnet
+http://iptvtree.net:8080//live/test_acct/ohbo1veifa4AhD/306079.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/la-une-be.png" group-title="International", La Une
+http://bd33.xyz//live/8B2C54Y/3ZJJA63/303393.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/tipik-be.png" group-title="International", Tipik
+http://bd33.xyz//live/8B2C54Y/3ZJJA63/303394.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/la-trois-be.png" group-title="International", La Trois
+http://ztnujjd.mmastertv.xyz/live/2212484721/7204969144/28000.m3u8
+
+#EXTINF:-1 tvg-id="AB3.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/AB3_logo.svg/200px-AB3_logo.svg.png" group-title="International", AB3
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/4470.m3u8
+
+#EXTINF:-1 tvg-id="vtm.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/vtm-be.png" group-title="International", VTM
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/10806.m3u8
+
+#EXTINF:-1 tvg-id="VTM2.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/vtm2-be.png" group-title="International", VTM 2
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/56831.m3u8
+
+#EXTINF:-1 tvg-id="VTM3.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/vtm3-be.png" group-title="International", VTM 3
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/56847.m3u8
+
+#EXTINF:-1 tvg-id="VTM4.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/vtm4-be.png" group-title="International", VTM 4
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/56848.m3u8
+
+#EXTINF:-1 tvg-id="VTMGOLD.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/vtm-gold-be.png" group-title="International", VTM Gold
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/88255.m3u8
+
+#EXTINF:-1 tvg-id="VTMNON-STOPDOKTERS.be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/belgium/vtm-life-be.png" group-title="International", VTM Life
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/11234.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/SVT1_logo_2016.svg/440px-SVT1_logo_2016.svg.png" group-title="International", SVT 1
+http://bd33.xyz//live/8B2C54Y/3ZJJA63/44129.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/SVT2_logo_2016.svg/440px-SVT2_logo_2016.svg.png" group-title="International", SVT 2
+http://bd33.xyz//live/8B2C54Y/3ZJJA63/44128.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/SVT_Barn_logo_2019.svg/440px-SVT_Barn_logo_2019.svg.png" group-title="International", SVT Barn/ SVT 24
+http://bd33.xyz//live/8B2C54Y/3ZJJA63/44126.m3u8
+
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tf1-fr.png" group-title="International", TF1
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/14906.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/France_2_-_logo_2018.svg/440px-France_2_-_logo_2018.svg.png" group-title="International", France 2
+http://fortv.cc:8080/30550113/30550113/160297
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/France_3_-_logo_2018.svg/1280px-France_3_-_logo_2018.svg.png" group-title="International", France 3
+http://fortv.cc:8080/30550113/30550113/160298
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/France_4_-_logo_2018.svg/1280px-France_4_-_logo_2018.svg.png" group-title="International", France 4
+http://ott.dobratv.net:25461/live/TeleskyGradacac/OlhzoyCMyn/15309.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/France_5_-_logo_2018.svg/1280px-France_5_-_logo_2018.svg.png" group-title="International", France 5
+http://fortv.cc:8080/30550113/30550113/160300
+
+#EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tfx-fr.png" group-title="International", TFX
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/23351.m3u8
+
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-fr.png" group-title="International", Canal+
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/2206.m3u8
+
+#EXTINF:-1 tvg-id="CanalPlusKids.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-plus-kids-fr.png" group-title="International", Canal+ Kids
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/125019.m3u8
+
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/canal-j-fr.png" group-title="International", Canal J
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/2239.m3u8
+
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/tiji-fr.png" group-title="International", Tiji
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/2237.m3u8
+
+#EXTINF:-1 tvg-id="AB1.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/france/ab1-fr.png" group-title="International", AB1
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/3731.m3u8
+
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-logo="https://www.mangas.fr/upload/media/logo-orange-1-62cc14908a3ce.png" group-title="International", Mangas
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/2245.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.usach.cl/sites/default/files/inline-images/med4.png" group-title="International", STGO.TV
+https://stv4.janus.cl/playlist/stream.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/cosmo-es.png" group-title="International", Cosmo
+http://iptvtree.net:8080//live/test_acct/ohbo1veifa4AhD/2215.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.la7tv.es/media/la7tv/images/2022/08/01/2022080110314173695.png" group-title="International", La7
+https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Squirrel_TV_logo.svg/400px-Squirrel_TV_logo.svg.png" group-title="International", Squirrel
+http://79.117.39.146:8000/play/a0ah
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Yle_TV1_logo.svg/400px-Yle_TV1_logo.svg.png" group-title="International", YLE TV 1
+https://bstandraidicin.xyz/live/ctcosmn1/9BvkBGMvqujF/223506.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Yle_TV2_logo.svg/400px-Yle_TV2_logo.svg.png" group-title="International", YLE TV2
+http://one.dream4ktv.biz:2082/play/live.php?mac=00:1A:79:DB:7A:A3&stream=22455&extension=ts&play_token=0
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/MTV3_Logo_2022.svg/300px-MTV3_Logo_2022.svg.png" group-title="International", MTV3
+https://live-fi.tvkaista.net/mtv3/live.m3u8
+
+#EXTINF:-1 tvg-id="cmoremax.fi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/MTV_Max_2023_Logo.svg/250px-MTV_Max_2023_Logo.svg.png" group-title="International", MTV Max
+http://iptvtree.net:8080//live/test_acct/ohbo1veifa4AhD/298465.m3u8
+
+#EXTINF:-1 tvg-id="cmorejuniori.fi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/MTV_Juniori_2023_Logo.svg/250px-MTV_Juniori_2023_Logo.svg.png" group-title="International", MTV Juniori
+http://iptvtree.net:8080//live/test_acct/ohbo1veifa4AhD/298464.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/400px-TRT_1_logo_%282021-%29.svg.png" group-title="International", TRT 1
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/400px-TRT_2_logo.svg.png" group-title="International", TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/fake-channels/images/4/41/KBS_World_2009.png" group-title="International", KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-title="International", RTP 1
+http://206.212.244.26/live/vasconeves/1742766045/48482.ts
+
+#EXTINF:-1 tvg-id="PT: RTP 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-2-pt.png" group-title="International", RTP 2
+http://defaultgen.com:3050/azn197000@gmail.com/lP8CT41OOv/660689
+
+#EXTINF:-1 tvg-id="PT: SIC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-pt.png" group-title="International", SIC
+http://defaultgen.com:3050/azn197000@gmail.com/lP8CT41OOv/660687
+
+#EXTINF:-1 tvg-id="PT: K SIC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-k-pt.png" group-title="International", SIC K
+http://defaultgen.com:3050/azn197000@gmail.com/lP8CT41OOv/660658
+
+#EXTINF:-1 tvg-id="TVP1.pl" tvg-logo="https://i.imgur.com/ewpSjBs.png" group-title="International", TVP1
+https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
+
+#EXTINF:-1 tvg-id="TVP2.pl" tvg-logo="https://i.imgur.com/XxCc32B.png" group-title="International", TVP2
+http://185.236.229.62:9981/play/a07p
+
+#EXTINF:-1 tvg-id="TVPABC.pl" tvg-logo="https://i.imgur.com/wP2mpfM.png" group-title="International", TVP ABC
+http://185.236.229.62:9981/play/a02z
+
+#EXTINF:-1 tvg-id="powertv.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-1-pl.png" group-title="International", Polsat 1
+http://iptvtree.net:8080//live/test_acct/ohbo1veifa4AhD/3234.m3u8
+
+#EXTINF:-1 tvg-id="polsat2.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-2-pl.png" group-title="International", Polsat 2
+http://iptvtree.net:8080//live/test_acct/ohbo1veifa4AhD/3233.m3u8
+
+#EXTINF:-1 tvg-id="polsatdoku.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-doku-pl.png" group-title="International", Polsat Doku
+http://iptvtree.net:8080//live/test_acct/ohbo1veifa4AhD/1698.m3u8
+
+#EXTINF:-1 tvg-id="polsatfilm.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-film-pl.png" group-title="International", Polsat Film
+http://iptvtree.net:8080//live/test_acct/ohbo1veifa4AhD/1697.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-games-pl.png" group-title="International", Polsat Games
+http://iptvtree.net:8080//live/test_acct/ohbo1veifa4AhD/16668.m3u8
+
+#EXTINF:-1 tvg-id="polsatmusic.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-music-pl.png" group-title="International", Polsat Music
+http://iptvtree.net:8080//live/test_acct/ohbo1veifa4AhD/2688.m3u8
+
+#EXTINF:-1 tvg-id="polsatrodzina.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-rodzina-pl.png" group-title="International", Polsat Rodzina
+http://iptvtree.net:8080//live/test_acct/ohbo1veifa4AhD/26591.m3u8
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-hu.png" group-title="International", TV2 (Hungary)
+http://iptvtree.net:8080//live/test_acct/ohbo1veifa4AhD/14990.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-comedy-hu.png" group-title="International", TV2 Comedy
+http://iptvtree.net:8080//live/test_acct/ohbo1veifa4AhD/50622.m3u8
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-kids-hu.png" group-title="International", TV2 Kids
+http://iptvtree.net:8080//live/test_acct/ohbo1veifa4AhD/47734.m3u8
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-klub-hu.png" group-title="International", TV2 Klub
+http://iptvtree.net:8080//live/test_acct/ohbo1veifa4AhD/23935.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/1%2B1_logo.svg/500px-1%2B1_logo.svg.png" group-title="International", 1+1
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/100872.m3u8
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/channel-5-ru.png" group-title="International", 5 Kanal
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/100873.m3u8
+
+#EXTINF:-1 tvg-id="MatchTV.ru" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/match-ru.png" group-title="International", Match TV
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/15334.m3u8
+
+#EXTINF:-1 tvg-id="NTV.ru" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/russia/ntv-ru.png" group-title="International", NTV
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/15265.m3u8
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/hop-il.png" group-title="International", HOP
+http://iptvtree.net:8080//live/test_acct/ohbo1veifa4AhD/163454.m3u8
+
+#EXTINF:-1 tvg-id="ZeeTV.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-tv-in.png" group-title="International", Zee TV
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/21533.m3u8
+
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-entertainment-television-in.png" group-title="International", Sony Entertainment Television
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/125015.m3u8
+
+#EXTINF:-1 tvg-id="SonySAB.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-sab-in.png" group-title="International", Sony SAB
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/14820.m3u8
+
+#EXTINF:-1 tvg-id="UtsavBharat.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/utsav-bharat-uk.png" group-title="International", Utsav Bharat
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/12350.m3u8
+
+#EXTINF:-1 tvg-id="UtsavGold.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/utsav-gold-uk.png" group-title="International", Utsav Gold
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/12351.m3u8
+
+#EXTINF:-1 tvg-id="UtsavPlus.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/utsav-plus-uk.png" group-title="International", Utsav Plus
+http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/14788.m3u8
+
+#EXTINF:-1 tvg-id="star.gr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/star-channel-gr.png" group-title="International", Star (GR)
+http://iptvtree.net:8080//live/test_acct/ohbo1veifa4AhD/2662.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-639baa971a12420ff66ae7b1" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e14f2078-3820-466e-8b9f-41fb618a7ce6/jubao_logo_dark_-_Ali_Clausenrdx_1500x1000.png" group-title="International", Jubao
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-639baa971a12420ff66ae7b1.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/pBk4JHgD/Family-Guy-Logo-svg.png" group-title="24/7 by Tellyvizz", Family Guy 24/7
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/681990.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Cow_and_Chicken_logo.png" group-title="24/7 by Tellyvizz", Cow and Chicken 24/7
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/681917.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BoJack_Horseman_Logo.svg/440px-BoJack_Horseman_Logo.svg.png" group-title="24/7 by Tellyvizz", BoJack Horseman 24/7
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/681868.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Seinfeld_logo.svg/440px-Seinfeld_logo.svg.png" group-title="24/7 by Tellyvizz", Seinfeld 24/7
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/682372.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Breaking_Bad_logo.svg/440px-Breaking_Bad_logo.svg.png" group-title="24/7 by Tellyvizz", Breaking Bad 24/7
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/681878.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/101_Dalmatians_The_Series_logo.png/500px-101_Dalmatians_The_Series_logo.png" group-title="24/7 by Tellyvizz", 101 Dalmatians 24/7
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/681755.ts
+
+#EXTINF:-1 tvg-id="24/7: American Dad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/American_dad_logo.svg/500px-American_dad_logo.svg.png" group-title="24/7 by Tellyvizz", American Dad 24/7
+http://defaultgen.com:3050/azn197000@gmail.com/lP8CT41OOv/681807
+
+#EXTINF:-1 tvg-id="24/7: Greys Anatomy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Grey%27s_Anatomy_Logo.svg/440px-Grey%27s_Anatomy_Logo.svg.png" group-title="24/7 by Tellyvizz", Greys Anatomy 24/7
+http://defaultgen.com:3050/azn197000@gmail.com/lP8CT41OOv/682051
+
+#EXTINF:-1 tvg-id="24/7: The Simpsons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/500px-The_Simpsons_yellow_logo.svg.png" group-title="24/7 by Tellyvizz", The Simpsons 24/7
+http://defaultgen.com:3050/azn197000@gmail.com/lP8CT41OOv/682617
+
+#EXTINF:-1 tvg-id="BBCRadio1.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd1-epg.png" group-title="Radio", BBC Radio 1
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1 tvg-id="BBCRadio1Xtra.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd1x-epg.png" group-title="Radio", BBC Radio 1Xtra
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1 tvg-id="BBCRadio2.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd2-epg.png" group-title="Radio", BBC Radio 2
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1 tvg-id="BBCRadio3.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd3-epg.png" group-title="Radio", BBC Radio 3
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1 tvg-id="BBCRadio4FM.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd4-epg.png" group-title="Radio", BBC Radio 4
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1 tvg-id="BBCRadio4Extra.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd4x-epg.png" group-title="Radio", BBC Radio 4 Extra
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1 tvg-id="BBCRadio5Live.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd5l-epg.png" group-title="Radio", BBC Radio 5 Live
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1 tvg-id="BBCRadio5SportsExtra.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd5s-epg.png" group-title="Radio", BBC Radio 5 Sports Extra
+http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_radio_five_live_sports_extra/bbc_radio_five_live_sports_extra.isml/bbc_radio_five_live_sports_extra-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1 tvg-id="BBCRadio6Music.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd6-epg.png" group-title="Radio", BBC Radio 6 Music
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://beatzradio.my.canva.site/media/d287b8385e2438bdbde508f04539493d.png" group-title="Radio", Beatz
+https://azura.typicalmedia.net/listen/beatz/radio.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/AbsoluteLogo.svg/440px-AbsoluteLogo.svg.png" group-title="Radio", Absolute UK
+https://edge-bauerall-01-gos2.sharp-stream.com/absoluteradiohigh.aac
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://herald.musicradio.com/media/0d3d891d-32f2-4c53-95ee-8d1e35bdd126.png" group-title="Radio", Capital UK
+https://media-ice.musicradio.com/CapitalEdinburghMP3?.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://herald.musicradio.com/media/5160d58f-efb3-432b-bcfb-bd2d53a8cb26.png" group-title="Radio", Capital Dance UK
+https://media-ssl.musicradio.com/CapitalDance
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://herald.musicradio.com/media/1827aafe-1932-4a6e-9c37-6111f97c8a49.png" group-title="Radio", Capital Xtra
+https://media-ice.musicradio.com/CapitalXTRANationalMP3?.mp3
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://herald.musicradio.com/media/526fe1bd-5c3e-4e8c-b91e-c2128d8e6c4a.png" group-title="Radio", Capital Xtra Reloaded
+https://media-ssl.musicradio.com/CapitalXTRAReloaded
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Kiss_Logo_Purple_2020.png" group-title="Radio", KISS UK
+https://edge-bauerall-01-gos2.sharp-stream.com/kissnational.aac
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/Kisstory.png" group-title="Radio", KISSTORY
+https://edge-bauerall-01-gos2.sharp-stream.com/kisstory.aac
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Virgin_Radio_UK_logo.png" group-title="Radio", Virgin Radio
+https://radio.virginradio.co.uk/stream
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/47798b7d-e52b-4f9a-851c-f88287336389/TBS-Info-2023-Zeno-FM.png" group-title="Radio", TBS Info
+http://stream.zeno.fm/qig2iqwqnsmuv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/6b730091-ed25-4d1c-9374-3826be0b7555/TBS-Radio-2023-boxed.png" group-title="Radio", TBS Radio
+http://stream.laut.fm/tbs2003
+
+#EXTINF:-1 tvg-id="ABCKOMO.us" tvg-logo="http://xplatinmedia.com:8080/images/e52c9e5455e7f7410323c5291f8841b3.png" group-title="US Locals", KOMO
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/684267.m3u8
+
+#EXTINF:-1 tvg-id="CBSKIRO.us" tvg-logo="http://xplatinmedia.com:8080/images/be944b6e3088dd078265270ccc482c3a.png" group-title="US Locals", KIRO
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/684612.m3u8
+
+#EXTINF:-1 tvg-id="CWKSTW.us" tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/The_CW_logo_4800x2000.png" group-title="US Locals", KSTW
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/648636.m3u8
+
+#EXTINF:-1 tvg-id="MyKZJO.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/my-network-tv-us.png" group-title="US Locals", KZJO
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/649030.m3u8
+
+#EXTINF:-1 tvg-id="FOXKCPQ.us" tvg-logo="https://i.ibb.co/F5ZqkDR/fox.png" group-title="US Locals", KCPQ
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/420096.m3u8
+
+#EXTINF:-1 tvg-id="NBCKING.us" tvg-logo="https://i.ibb.co/j6Cp5HB/nbc.png" group-title="US Locals", KING
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/420097.m3u8
+
+#EXTINF:-1 tvg-id="ABCWPVI.us" tvg-logo="http://xplatinmedia.com:8080/images/1340ed2a09ac2aaeb8e8e21a3d21d216.png" group-title="US Locals", WPVI
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/684244.m3u8
+
+#EXTINF:-1 tvg-id="CBSKYW.us" tvg-logo="http://xplatinmedia.com:8080/images/34d230d5efe957db8450ea72d7f92a69.png" group-title="US Locals", KYW
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/684587.m3u8
+
+#EXTINF:-1 tvg-id="MYNetworkWPHL.us" tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/The_CW_logo_4800x2000.png" group-title="US Locals", WPHL
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/648500.m3u8
+
+#EXTINF:-1 tvg-id="PHILLY57 PHILADELPHIA PA WPSG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/WPSG_Philly57_2023.svg/440px-WPSG_Philly57_2023.svg.png" group-title="US Locals", WPSG
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/648499.m3u8
+
+#EXTINF:-1 tvg-id="FOXWTXF.us" tvg-logo="https://i.ibb.co/F5ZqkDR/fox.png" group-title="US Locals", WTXF
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419956.m3u8
+
+#EXTINF:-1 tvg-id="NBCWCAU.us" tvg-logo="https://i.ibb.co/j6Cp5HB/nbc.png" group-title="US Locals", WCAU
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419957.m3u8
+
+#EXTINF:-1 tvg-id="ABCWABC.us" tvg-logo="http://xplatinmedia.com:8080/images/14380b1d3fdebe96dc86ee4886595e81.png" group-title="US Locals", WABC
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/684235.m3u8
+
+#EXTINF:-1 tvg-id="CBSWCBS.us" tvg-logo="http://xplatinmedia.com:8080/images/400a936408be336aba3655a91ab2be67.png" group-title="US Locals", WCBS
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/684581.m3u8
+
+#EXTINF:-1 tvg-id="CWWPIX.us" tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/The_CW_logo_4800x2000.png" group-title="US Locals", WPIX
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/648494.m3u8
+
+#EXTINF:-1 tvg-id="MYWWOR.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/my-network-tv-us.png" group-title="US Locals", WWOR
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/649052.m3u8
+
+#EXTINF:-1 tvg-id="FOXWNYW.us" tvg-logo="https://i.ibb.co/F5ZqkDR/fox.png" group-title="US Locals", WNYW
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419894.m3u8
+
+#EXTINF:-1 tvg-id="NBCWNBC.us" tvg-logo="https://i.ibb.co/j6Cp5HB/nbc.png" group-title="US Locals", WNBC
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419895.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoWNJU.us" tvg-logo="https://i.ibb.co/CzjHhRK/telemundo.png" group-title="US Locals", WNJU
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419896.m3u8
+
+#EXTINF:-1 tvg-id="UniMasWFUT.us" tvg-logo="https://i.ibb.co/gJhyHNP/unimas.png" group-title="US Locals", WFUT
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419897.m3u8
+
+#EXTINF:-1 tvg-id="ABCWSB.us" tvg-logo="http://xplatinmedia.com:8080/images/f3bc3f488b17d6d3550fee5d8fded771.png" group-title="US Locals", WSB
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/684113.m3u8
+
+#EXTINF:-1 tvg-id="CBSWANF.us" tvg-logo="http://xplatinmedia.com:8080/images/aba4fa023b097d5b67cdf81d16f986dd.png" group-title="US Locals", WANF
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/684476.m3u8
+
+#EXTINF:-1 tvg-id="CWWUPA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WUPA_Atlanta69_2023.svg/500px-WUPA_Atlanta69_2023.svg.png" group-title="US Locals", WUPA
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/648524.m3u8
+
+#EXTINF:-1 tvg-id="MYTV ATLANTA GA WATL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/my-network-tv-us.png" group-title="US Locals", WATL
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/649078.m3u8
+
+#EXTINF:-1 tvg-id="FOXWAGA.us" tvg-logo="https://i.ibb.co/F5ZqkDR/fox.png" group-title="US Locals", WAGA
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419681.m3u8
+
+#EXTINF:-1 tvg-id="NBCWXIA.us" tvg-logo="https://i.ibb.co/j6Cp5HB/nbc.png" group-title="US Locals", WXIA
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419682.m3u8
+
+#EXTINF:-1 tvg-id="UnivisionWUVG.us" tvg-logo="https://i.ibb.co/5h5DtWS/512px-Logo-Univision-2019-svg.png" group-title="US Locals", WUVG
+http://defaultgen.com:3050/live/mwmonnier@gmail.com/s5ZMwveuMw/419683.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/csn/images/6/63/Streamline2025.png/revision/latest?cb=20250405111115" group-title="Info", Streamline Select
+https://streamlinecsn.online/memfs/f68af325-4915-4b07-8c96-0282daf2450e.m3u8
+
