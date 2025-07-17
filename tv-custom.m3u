@@ -1,0 +1,655 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="RX: RELAX MOROCCO ᵁᴴᴰ 3840P" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K Scenery",Morocco
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/791180.ts
+#EXTINF:-1 tvg-name="RX: RELAX ALGERIA ᵁᴴᴰ 3840P" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K Scenery",Algeria
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1008543.ts
+#EXTINF:-1 tvg-name="RX: RELAX ICELAND ᵁᴴᴰ 3840P" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K Scenery",Iceland
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/791179.ts
+#EXTINF:-1 tvg-name="RX: RELAX NORWAY ᵁᴴᴰ 3840P" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K Scenery",Norway
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/791178.ts
+#EXTINF:-1 tvg-name="RX: RELAX TURKEY ᵁᴴᴰ 3840P" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K Scenery",Turkey
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/791177.ts
+#EXTINF:-1 tvg-name="RX: RELAX AUSTRALIA ᵁᴴᴰ 3840P" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K Scenery",Australia
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/791176.ts
+#EXTINF:-1 tvg-name="RX: RELAX EARTH NATURE ᵁᴴᴰ 3840P" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K Scenery",Earth Nature
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/791175.ts
+#EXTINF:-1 tvg-name="RX: RELAX FOREST ᵁᴴᴰ 3840P" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K Scenery",Forest
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/791174.ts
+#EXTINF:-1 tvg-name="RX: RELAX THE OCEAN ᵁᴴᴰ 3840P" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K Scenery",Ocean
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/791172.ts
+#EXTINF:-1 tvg-name="RX: RELAX TROPICAL BEACH ᵁᴴᴰ 3840P" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K Scenery",Tropical Beach
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/791171.ts
+#EXTINF:-1 tvg-id="BBCOneOxford.uk" tvg-name="UK: BBC ONE LONDON 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11987.jpg?90172" group-title="Freeview-RAW",BBC One
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/497001.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="UK: BBC 1 HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12016.jpg?38263" group-title="Freeview-RAW",BBC One
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162096.ts
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="UK: BBC 2 HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12017.jpg?20708" group-title="Freeview-RAW",BBC Two
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162098.ts
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="UK: ITV 1 HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12019.jpg?8392" group-title="Freeview-RAW",ITV1
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162104.ts
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="UK: ITV 1 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12019.jpg?8392" group-title="Freeview-RAW",ITV1 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162105.ts
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK: ITV 2 HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12020.jpg?96832" group-title="Freeview-RAW",ITV2
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162106.ts
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK: ITV 2 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12020.jpg?96832" group-title="Freeview-RAW",ITV2 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/852426.ts
+#EXTINF:-1 tvg-name="UK: CHANNEL 4 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12107.jpg?7219" group-title="Freeview-RAW",Channel 4 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162113.ts
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK: CHANNEL 5 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12126.jpg?14506" group-title="Freeview-RAW",Channel 5 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162114.ts
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="UK: E4 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12134.jpg?43604" group-title="Freeview-RAW",E4 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162115.ts
+#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="UK: ALIBI 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12114.jpg?42058" group-title="Freeview-RAW",Alibi 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162118.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="UK: BBC 1 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12016.jpg?78071" group-title="Freeview-RAW",BBC One 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162120.ts
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="UK: BBC 2 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12017.jpg?52905" group-title="Freeview-RAW",BBC Two 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162121.ts
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="UK: ITV 1 ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12019.jpg?42491" group-title="Freeview-RAW",ITV1
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162124.ts
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK: ITV 2 ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12020.jpg?34141" group-title="Freeview-RAW",ITV2
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162125.ts
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="UK: E4 ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12134.jpg?43604" group-title="Freeview-RAW",E4
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162135.ts
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK: CHANNEL 5 ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12126.jpg?14506" group-title="Freeview-RAW",Channel 5
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162136.ts
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="UK: CHANNEL 4 ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12107.jpg?7219" group-title="Freeview-RAW",Channel 4
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162137.ts
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="UK: FOOD NETWORK ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6168.png?81098" group-title="Freeview-RAW",Food Network
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162159.ts
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK: SKY ATLANTIC 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6482.jpg?75615" group-title="Freeview-RAW",Sky Atlantic 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162253.ts
+#EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="UK: SKY WITNESS HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3134.jpg?34714" group-title="Freeview-RAW",Sky Witness
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162255.ts
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="UK: COMEDY CENTRAL 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/749.png?81881" group-title="Freeview-RAW",Comedy Central 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162257.ts
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: FILM 4 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1929.jpg?34588" group-title="Freeview-RAW",Film4 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162266.ts
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name="UK: DAVE 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12135.jpg?71252" group-title="Freeview-RAW",Dave
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162267.ts
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: MORE 4 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12118.jpg?92704" group-title="Freeview-RAW",More 4
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162268.ts
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="UK: COMEDY CENTRAL ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/749.png?81881" group-title="Freeview-RAW",Comedy Central
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162277.ts
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: MORE4 ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12118.jpg?92704" group-title="Freeview-RAW",More 4
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162282.ts
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name="UK: DAVE ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12135.jpg?71252" group-title="Freeview-RAW",Dave
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162284.ts
+#EXTINF:-1 tvg-id="Challenge.uk" tvg-name="UK: CHALLENGE ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12132.jpg?36172" group-title="Freeview-RAW",Challenge
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162302.ts
+#EXTINF:-1 tvg-id="SkyDocumentaries.uk" tvg-name="UK: SKY DOCUMENTARIES 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3134.jpg?45779" group-title="Freeview-RAW",Sky Documentaries 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162382.ts
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: W! - WATCH 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13514.jpg?94136" group-title="Freeview-RAW",Watch
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/342017.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="UK: BBC 1 HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12016.jpg?91682" group-title="Freeview-HEVC",BBC One
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717682.ts
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="UK: BBC 2 HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12017.jpg?71921" group-title="Freeview-HEVC",BBC Two
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717681.ts
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="UK: ITV 1 HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12012.jpg?69431" group-title="Freeview-HEVC",ITV1
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717680.ts
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK: ITV 2 HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12020.jpg?72300" group-title="Freeview-HEVC",ITV2
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717679.ts
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK: ITV 3 HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12021.jpg?57850" group-title="Freeview-HEVC",ITV3
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717678.ts
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK: ITV 4 HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12022.jpg?69435" group-title="Freeview-HEVC",ITV4
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717677.ts
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="UK: CHANNEL 4 HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12107.jpg?42046" group-title="Freeview-HEVC",Channel 4
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717676.ts
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="UK: E4 HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12134.jpg?30711" group-title="Freeview-HEVC",E4
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717674.ts
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK: CHANNEL 5 HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12126.jpg?76649" group-title="Freeview-HEVC",Channel 5
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717675.ts
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="UK: MORE 4 HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12118.jpg?ver=36147" group-title="Freeview-HEVC",More 4
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717673.ts
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="UK: COMEDY CENTRAL HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/749.png?ver=53843" group-title="Freeview-HEVC",Comedy Central
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717672.ts
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="UK: FILM 4 HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12111.png?94248" group-title="Freeview-HEVC",Film4
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717671.ts
+#EXTINF:-1 tvg-name="UK: WATCH HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13629.png?69598" group-title="Freeview-HEVC",Watch
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717669.ts
+#EXTINF:-1 tvg-name="UK: GOLD HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/823.jpg?33065" group-title="Freeview-HEVC",Gold
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717670.ts
+#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="UK: ALIBI HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12114.jpg?42541" group-title="Freeview-HEVC",Alibi
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717668.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="UK: BBC 1 HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12016.jpg?99647" group-title="Freeview-HEVC",BBC One 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717666.ts
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="UK: BBC 2 HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12017.jpg?44461" group-title="Freeview-HEVC",BBC Two 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717665.ts
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="UK: ITV 1 HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12012.jpg?8441" group-title="Freeview-HEVC",ITV1 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717664.ts
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK: ITV 2 HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12001.jpg?36811" group-title="Freeview-HEVC",ITV2 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717663.ts
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK: ITV 4 HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12022.jpg?16719" group-title="Freeview-HEVC",ITV4 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717661.ts
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK: ITV 3 HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12021.jpg?98063" group-title="Freeview-HEVC",ITV3 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717662.ts
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="UK: CHANNEL 4 HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12107.jpg?67770" group-title="Freeview-HEVC",Channel 4 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717660.ts
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK: CHANNEL 5 HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12126.jpg?75206" group-title="Freeview-HEVC",Channel 5 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717659.ts
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="UK: E4  HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12134.jpg?57654" group-title="Freeview-HEVC",E4 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717658.ts
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="UK: FILM 4 HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12111.png?99257" group-title="Freeview-HEVC",Film4 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717657.ts
+#EXTINF:-1 tvg-name="UK: COMEDY CENTRAL HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/749.png?41235" group-title="Freeview-HEVC",Comedy Central 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717656.ts
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="UK: MORE 4 HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12118.jpg?70719" group-title="Freeview-HEVC",More 4 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717655.ts
+#EXTINF:-1 tvg-name="UK: WATCH HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13629.png?79339" group-title="Freeview-HEVC",Watch 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717654.ts
+#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="UK: GOLD HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/823.jpg?74563" group-title="Freeview-HEVC",Gold 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717653.ts
+#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="UK: ALIBI HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12114.jpg?30493" group-title="Freeview-HEVC",Alibi 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717652.ts
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK: BBC NEWS HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/364.png?20760" group-title="News",BBC News HD
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162142.ts
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK: BBC NEWS HEVC ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/364.png?20760" group-title="News",BBC News HEVC
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162141.ts
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK: SKY NEWS HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3124.jpg?91022" group-title="News",Sky News HD
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162155.ts
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK: BBC NEWS HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12028.jpg?67314" group-title="News",BBC News HD
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717702.ts
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK: SKY NEWS HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3124.jpg?49138" group-title="News",Sky News HEVC
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717701.ts
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK: BBC NEWS HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12028.jpg?71635" group-title="News",BBC News 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717698.ts
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK: SKY NEWS HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3124.jpg?78087" group-title="News",Sky News 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717697.ts
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: SKY CINEMA ACTION HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="Movies-RAW",Sky Cinema Action
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162329.ts
+#EXTINF:-1 tvg-name="UK: SKY CINEMA ACTION 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="Movies-RAW",Sky Cinema Action 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162330.ts
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="UK: SKY CINEMA COMEDY 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="Movies-RAW",Sky Cinema Comedy 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162331.ts
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="UK: SKY CINEMA COMEDY 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="Movies-RAW",Sky Cinema Comedy 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162332.ts
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="UK: SKY CINEMA DRAMA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="Movies-RAW",Sky Cinema Drama 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162335.ts
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="UK: SKY CINEMA DRAMA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="Movies-RAW",Sky Cinema Drama 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162336.ts
+#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-name="UK: SKY CINEMA ANIMATION 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="Movies-RAW",Sky Cinema Animation 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162337.ts
+#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-name="UK: SKY CINEMA ANIMATION 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12173.jpg?58266" group-title="Movies-RAW",Sky Cinema Animation 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/336042.ts
+#EXTINF:-1 tvg-name="UK: SKY CINEMA SELECT/OSCARS 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="Movies-RAW",Sky Cinema Select 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162338.ts
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="UK: SKY CINEMA GREATS 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="Movies-RAW",Sky Cinema Greats 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162339.ts
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="UK: SKY CINEMA GREATS 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="Movies-RAW",Sky Cinema Greats 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162340.ts
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: SKY CINEMA SUPERHEROES HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="Movies-RAW",Sky Cinema Superheroes
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162341.ts
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="UK: SKY CINEMA HITS 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="Movies-RAW",Sky Cinema Hits 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162342.ts
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="UK: SKY CINEMA HITS 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="Movies-RAW",Sky Cinema Hits 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162343.ts
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="UK: SKY CINEMA PREMIERE 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="Movies-RAW",Sky Cinema Premier 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162344.ts
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="UK: SKY CINEMA PREMIER 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="Movies-RAW",Sky Cinema Premier 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162345.ts
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="UK: SKY CINEMA THRILLER 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="Movies-RAW",Sky Cinema Thriller 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162346.ts
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="UK: SKY CINEMA THRILLER 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="Movies-RAW",Sky Cinema Thriller 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162347.ts
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="UK: SKY CINEMA FAMILY 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="Movies-RAW",Sky Cinema Family 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162348.ts
+#EXTINF:-1 tvg-name="UK: SKY CINEMA FAMILY 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="Movies-RAW",Sky Cinema Family 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162349.ts
+#EXTINF:-1 tvg-id="SkyCinemaSciFiHorror.uk" tvg-name="UK: SKY CINEMA SCI-FI 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="Movies-RAW",Sky Cinema Sci-Fi/Horror 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162350.ts
+#EXTINF:-1 tvg-id="SkyCinemaSciFiHorror.uk" tvg-name="UK: SKY CINEMA SCIFI HORROR 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="Movies-RAW",Sky Cinema Sci-Fi/Horror 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162351.ts
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: SKY CINEMA ACTION ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="Movies-RAW",Sky Cinema Action
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162353.ts
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="UK: SKY CINEMA COMEDY ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="Movies-RAW",Sky Cinema Comedy
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162354.ts
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="UK: SKY CINEMA DRAMA ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="Movies-RAW",Sky Cinema Drama
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162356.ts
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="UK: SKY CINEMA GREATS ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="Movies-RAW",Sky Cinema Greats
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162357.ts
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="UK: SKY CINEMA HITS ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="Movies-RAW",Sky Cinema Hits
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162358.ts
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="UK: SKY CINEMA PREMIERE ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="Movies-RAW",Sky Cinema Premier
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162359.ts
+#EXTINF:-1 tvg-id="SkyCinemaSciFiHorror.uk" tvg-name="UK: SKY CINEMA SCI-FI ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="Movies-RAW",Sky Cinema Sci-Fi/Horror
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162360.ts
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="UK: SKY CINEMA THRILLER" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="Movies-RAW",Sky Cinema Thriller
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162361.ts
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: SKY CINEMA SELECT HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6469.jpg?ver=79267" group-title="Movies-RAW",Sky Cinema Select
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/501280.ts
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: SKY CINEMA SELECT HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6462.png?18198" group-title="Movies-RAW",Sky Cinema Select
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/362625.ts
+#EXTINF:-1 tvg-id="Movies4Men.uk" tvg-name="UK: MOVIES4MEN ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12200.jpg?77487" group-title="Movies-RAW",Movies4Men
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162365.ts
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: SONY ACTION ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7718.jpg?39454" group-title="Movies-RAW",Sony Action
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162368.ts
+#EXTINF:-1 tvg-id="SonyChannel.uk" tvg-name="UK: SONY CHANNEL ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7718.jpg?39454" group-title="Movies-RAW",Sony Channel
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162370.ts
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="UK: SKY CINEMA THRILLER HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12182.jpg?8761" group-title="Movies-HEVC",Sky Cinema Thriller 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/639183.ts
+#EXTINF:-1 tvg-name="UK: SKY CINEMA SELECT/FEEL GOOD HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6469.jpg?92001" group-title="Movies-HEVC",Sky Cinema Select 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/639182.ts
+#EXTINF:-1 tvg-id="SkyCinemaSciFiHorror.uk" tvg-name="UK: SKY CINEMA SCIFI/HORROR HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?62024" group-title="Movies-HEVC",Sky Cinema Sci-Fi/Horror 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/639181.ts
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="UK: SKY CINEMA PREMIER HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6463.jpg?90528" group-title="Movies-HEVC",Sky Cinema Premier 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/639180.ts
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="UK: SKY CINEMA HITS HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12176.png?22884" group-title="Movies-HEVC",Sky Cinema Hits 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/639179.ts
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="UK: SKY CINEMA GREATS HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6466.png?24948" group-title="Movies-HEVC",Sky Cinema Greats 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/639178.ts
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="UK: SKY CINEMA FAMILY HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12184.jpg?55624" group-title="Movies-HEVC",Sky Cinema Family 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/639177.ts
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="UK: SKY CINEMA DRAMA/CHRISTMAS HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12172.jpg?43168" group-title="Movies-HEVC",Sky Cinema Drama 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/639176.ts
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="UK: SKY CINEMA COMEDY HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6492.jpg?46729" group-title="Movies-HEVC",Sky Cinema Comedy 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/639175.ts
+#EXTINF:-1 tvg-name="UK: SKY CINEMA ACTION HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6475.jpg?982" group-title="Movies-HEVC",Sky Cinema Action 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/639174.ts
+#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-name="UK: SKY CINEMA ANIMATION HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12173.jpg?14567" group-title="Movies-HEVC",Sky Cinema Animation 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/639173.ts
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK: SKY ATLANTIC HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6482.jpg?27181" group-title="Freeview-HEVC",Sky Atlantic 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/639165.ts
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="UK: SKY CINEMA THRILLER HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12182.jpg?54085" group-title="Movies-HEVC",Sky Cinema Thriller
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/639203.ts
+#EXTINF:-1 tvg-name="UK: SKY CINEMA SELECT/FEEL GOOD HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6469.jpg?5276" group-title="Movies-HEVC",Sky Cinema Select
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/639202.ts
+#EXTINF:-1 tvg-id="SkyCinemaSciFiHorror.uk" tvg-name="UK: SKY CINEMA SCIFI/HORROR HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?6083" group-title="Movies-HEVC",Sky Cinema Sci-Fi/Horror
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/639201.ts
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="UK: SKY CINEMA PREMIER HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6463.jpg?52853" group-title="Movies-HEVC",Sky Cinema Premier
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/639200.ts
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="UK: SKY CINEMA HITS HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12176.png?61071" group-title="Movies-HEVC",Sky Cinema Hits
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/639199.ts
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="UK: SKY CINEMA GREATS HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6466.png?8010" group-title="Movies-HEVC",Sky Cinema Greats
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/639198.ts
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="UK: SKY CINEMA FAMILY HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12184.jpg?81084" group-title="Movies-HEVC",Sky Cinema Family
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/639197.ts
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="UK: SKY CINEMA DRAMA/CHRISTMAS HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12172.jpg?49519" group-title="Movies-HEVC",Sky Cinema Drama
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/639196.ts
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="UK: SKY CINEMA COMEDY HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6492.jpg?12384" group-title="Movies-HEVC",Sky Cinema Comedy
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/639195.ts
+#EXTINF:-1 tvg-name="UK: SKY CINEMA ACTION HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6475.jpg?77623" group-title="Movies-HEVC",Sky Cinema Action
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/639194.ts
+#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-name="UK: SKY CINEMA ANIMATION HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12173.jpg?34523" group-title="Movies-HEVC",Sky Cinema Animation
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/639193.ts
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK: SKY ATLANTIC HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6482.jpg?96615" group-title="Freeview-HEVC",Sky Atlantic
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/639185.ts
+#EXTINF:-1 tvg-name="UK: Y2K - DIRECT ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13872.jpg?ver=88577" group-title="Music Choice",Y2K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290995.ts
+#EXTINF:-1 tvg-name="UK: THROWBACK JAMZ - DIRECT ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13872.jpg?ver=88577" group-title="Music Choice",Thorwbacks
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290991.ts
+#EXTINF:-1 tvg-name="UK: TEEN BEATS - DIRECT ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13872.jpg?ver=88577" group-title="Music Choice",Teen Beats
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290990.ts
+#EXTINF:-1 tvg-name="UK: RAP - DIRECT ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13872.jpg?ver=88577" group-title="Music Choice",Rap
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290988.ts
+#EXTINF:-1 tvg-name="UK: R&B SOUL - DIRECT ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13872.jpg?ver=88577" group-title="Music Choice",R&B / Soul
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290987.ts
+#EXTINF:-1 tvg-name="UK: POP LATINO - DIRECT ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13872.jpg?ver=88577" group-title="Music Choice",Latino Pop
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290986.ts
+#EXTINF:-1 tvg-name="UK: POP HITS - DIRECT ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13872.jpg?ver=88577" group-title="Music Choice",Pop Hits
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290985.ts
+#EXTINF:-1 tvg-name="UK: POP & COUNTRY - DIRECT ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13872.jpg?ver=88577" group-title="Music Choice",Country Pop
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290984.ts
+#EXTINF:-1 tvg-name="UK: 80'S - DIRECT ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13872.jpg?ver=88577" group-title="Music Choice",80s
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290981.ts
+#EXTINF:-1 tvg-name="UK: KIDZ ONLY! - DIRECT ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13872.jpg?ver=88577" group-title="Music Choice",Kidz
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290980.ts
+#EXTINF:-1 tvg-name="UK: KIDZ BOP - DIRECT ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13872.jpg?ver=88577" group-title="Music Choice",Kidz Bop
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290979.ts
+#EXTINF:-1 tvg-name="UK: SOFT ROCK - DIRECT ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13872.jpg?ver=88577" group-title="Music Choice",Soft Rock
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290978.ts
+#EXTINF:-1 tvg-name="UK: HIT LIST - DIRECT ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13872.jpg?ver=88577" group-title="Music Choice",Hit List
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290977.ts
+#EXTINF:-1 tvg-name="UK: HIP-HOP AND R&B - DIRECT ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13872.jpg?ver=88577" group-title="Music Choice",Hip-Hop & R&B
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290976.ts
+#EXTINF:-1 tvg-name="UK: DANCE/ EDM - DIRECT ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13872.jpg?ver=88577" group-title="Music Choice",Dance / EDM
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290975.ts
+#EXTINF:-1 tvg-name="UK: COUNTRY HITS - DIRECT ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13872.jpg?ver=88577" group-title="Music Choice",Country Hits
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290974.ts
+#EXTINF:-1 tvg-name="UK: ALTERNATIVE - DIRECT ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13872.jpg?ver=88577" group-title="Music Choice",Alternative
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290973.ts
+#EXTINF:-1 tvg-name="UK: 90'S - DIRECT ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13872.jpg?ver=88577" group-title="Music Choice",90s
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290972.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="UK: DISCOVERY+ 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="Documentaries",Discovery+ 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/262724.ts
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="UK: DISCOVERY HISTORY" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12219.jpg?89049" group-title="Documentaries",Discovery History
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/262725.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="UK: ANIMAL PLANET 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/626.png?79811" group-title="Documentaries",Animal Planet 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/262729.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="UK: DISCOVERY 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/618.jpg?21210" group-title="Documentaries",Discovery 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162375.ts
+#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="UK: NAT GEO 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/616.png?39036" group-title="Documentaries",National Geographic 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162380.ts
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="UK: NAT GEO WILD 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/625.png?91005" group-title="Documentaries",NatGeo Wild 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/162381.ts
+#EXTINF:-1 tvg-name="UK: DISCOVERY HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3955.jpg?41002" group-title="Documentaries",Discovery 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717711.ts
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="UK: NAT GEO WILD HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1395.png?11908" group-title="Documentaries",NatGeo Wild 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717709.ts
+#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="UK: NATIONAL GEO HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/60.jpg?60971" group-title="Documentaries",National Geographic 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/717708.ts
+#EXTINF:-1 tvg-id="TNTSport1.uk" tvg-name="VIP: TNT SPORT 1 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9672.png?51391" group-title="Sports-TNT Sports RAW",TNT Sport 1
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290377.ts
+#EXTINF:-1 tvg-id="TNTSport2.uk" tvg-name="VIP: TNT SPORT 2 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6400.png?67159" group-title="Sports-TNT Sports RAW",TNT Sport 2
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290376.ts
+#EXTINF:-1 tvg-id="TNTSport3.uk" tvg-name="VIP: TNT SPORT 3 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6123.png?96158" group-title="Sports-TNT Sports RAW",TNT Sport 3
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290375.ts
+#EXTINF:-1 tvg-id="TNTSport4.uk" tvg-name="VIP: TNT SPORT 4 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6398.png?95958" group-title="Sports-TNT Sports RAW",TNT Sport 4
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290374.ts
+#EXTINF:-1 tvg-id="TNTSport1.uk" tvg-name="VIP: TNT SPORT 1 ᴴᴰ ʰᵉᵛᶜ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9672.png?51391" group-title="Sports-TNT Sports HEVC",TNT Sport 1
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290372.ts
+#EXTINF:-1 tvg-id="TNTSport2.uk" tvg-name="VIP: TNT SPORT 2 ᴴᴰ ʰᵉᵛᶜ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6400.png?67159" group-title="Sports-TNT Sports HEVC",TNT Sport 2
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290371.ts
+#EXTINF:-1 tvg-id="TNTSport3.uk" tvg-name="VIP: TNT SPORT 3 ᴴᴰ ʰᵉᵛᶜ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6123.png?96158" group-title="Sports-TNT Sports HEVC",TNT Sport 3
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290370.ts
+#EXTINF:-1 tvg-id="TNTSport4.uk" tvg-name="VIP: TNT SPORT 4 ᴴᴰ ʰᵉᵛᶜ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6398.png?95958" group-title="Sports-TNT Sports HEVC",TNT Sport 4
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290369.ts
+#EXTINF:-1 tvg-name="VIP: TNT SPORTS ULTIMATE ⁴ᵏ & ³⁸⁴⁰ᴾ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1070.png?81674" group-title="Sports-TNT Sports RAW",TNT Sport Ultimate 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290338.ts
+#EXTINF:-1 tvg-id="TNTSport1.uk" tvg-name="VIP: TNT SPORTS 1 ᴿᴬᵂ ⁵⁰ FPS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9672.png?51391" group-title="Sports-TNT Sports RAW",TNT Sport 1
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290337.ts
+#EXTINF:-1 tvg-id="TNTSport2.uk" tvg-name="VIP: TNT SPORTS 2 ᴿᴬᵂ ⁵⁰ FPS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6400.png?67159" group-title="Sports-TNT Sports RAW",TNT Sport 2
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290336.ts
+#EXTINF:-1 tvg-id="TNTSport3.uk" tvg-name="VIP: TNT SPORTS 3 ᴿᴬᵂ ⁵⁰ FPS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6123.png?96158" group-title="Sports-TNT Sports RAW",TNT Sport 3
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290335.ts
+#EXTINF:-1 tvg-id="TNTSport4.uk" tvg-name="VIP: TNT SPORTS 4 ᴿᴬᵂ ⁵⁰ FPS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6398.png?95958" group-title="Sports-TNT Sports RAW",TNT Sport 4
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290334.ts
+#EXTINF:-1 tvg-id="TNTSport1.uk" tvg-name="VIP: TNT SPORT 1 ᴿᴬᵂ ʰᵉᵛᶜ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9672.png?51391" group-title="Sports-TNT Sports HEVC",TNT Sport 1
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290327.ts
+#EXTINF:-1 tvg-id="TNTSport2.uk" tvg-name="VIP: TNT SPORT 2 ᴿᴬᵂ ʰᵉᵛᶜ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6400.png?67159" group-title="Sports-TNT Sports HEVC",TNT Sport 2
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290326.ts
+#EXTINF:-1 tvg-id="TNTSport3.uk" tvg-name="VIP: TNT SPORT 3 ᴿᴬᵂ ʰᵉᵛᶜ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6123.png?96158" group-title="Sports-TNT Sports HEVC",TNT Sport 3
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290325.ts
+#EXTINF:-1 tvg-id="TNTSport4.uk" tvg-name="VIP: TNT SPORT 4 ᴿᴬᵂ ʰᵉᵛᶜ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6398.png?34432" group-title="Sports-TNT Sports HEVC",TNT Sport 4
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290324.ts
+#EXTINF:-1 tvg-id="TNTSport1.uk" tvg-name="UK: TNT SPORTS 1 ᴿᴬᵂ ᵃᵐᶻ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9672.png?96641" group-title="Sports-TNT Sports RAW",TNT Sport 1
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1176215.ts
+#EXTINF:-1 tvg-id="TNTSport2.uk" tvg-name="UK: TNT SPORTS 2 ᴿᴬᵂ ᵃᵐᶻ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6400.png?14799" group-title="Sports-TNT Sports RAW",TNT Sport 2
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1176214.ts
+#EXTINF:-1 tvg-id="TNTSport3.uk" tvg-name="UK: TNT SPORTS 3 ᴿᴬᵂ ᵃᵐᶻ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6123.png?61439" group-title="Sports-TNT Sports RAW",TNT Sport 3
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1176213.ts
+#EXTINF:-1 tvg-id="TNTSport4.uk" tvg-name="UK: TNT SPORTS 4 ᴿᴬᵂ ᵃᵐᶻ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6398.png?60388" group-title="Sports-TNT Sports RAW",TNT Sport 4
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1176212.ts
+#EXTINF:-1 tvg-id="TNTSport1.uk" tvg-name="SKYGO: TNT SPORT 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9672.png?85739" group-title="Sports-ZBackup",TNT Sport 1
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/604007.ts
+#EXTINF:-1 tvg-id="TNTSport2.uk" tvg-name="SKYGO: TNT SPORT 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6400.png?37869" group-title="Sports-ZBackup",TNT Sport 2
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/604005.ts
+#EXTINF:-1 tvg-id="TNTSport3.uk" tvg-name="SKYGO: TNT SPORT 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6123.png?65734" group-title="Sports-ZBackup",TNT Sport 3
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/604003.ts
+#EXTINF:-1 tvg-id="TNTSport4.uk" tvg-name="SKYGO: TNT SPORT 4 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6398.png?4480" group-title="Sports-ZBackup",TNT Sport 4
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/604001.ts
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="SKYGO: TNT SPORT 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12252.jpg?42490" group-title="Sports-ZBackup",TNT Sport 1 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/494205.ts
+#EXTINF:-1 tvg-name="SKYGO: TNT SPORT 2 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12253.png?68837" group-title="Sports-ZBackup",TNT Sport 2 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/494204.ts
+#EXTINF:-1 tvg-name="SKYGO: TNT SPORT 3 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12278.png?53458" group-title="Sports-ZBackup",TNT Sport 3 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/494203.ts
+#EXTINF:-1 tvg-name="SKYGO: TNT SPORT 4 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12292.png?7737" group-title="Sports-ZBackup",TNT Sport 4 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/494202.ts
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="SKYGO: SKY SPORTS NEWS 4K 50 FPS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11972.png?ver=65022" group-title="Sports-ZBackup",Sky Sports News 4K 50fps
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/494231.ts
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="SKYGO: SKY SPORTS NEWS 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11972.png?ver=65022" group-title="Sports-ZBackup",Sky Sports News 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/494230.ts
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="SKYGO: SKY SPORTS MAIN EVENT 4K 50 FPS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12232.jpg?45590" group-title="Sports-ZBackup",Sky Sports Main Event 4K 50fps
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/494229.ts
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="SKYGO: SKY SPORTS MAIN EVENT 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12232.jpg?45590" group-title="Sports-ZBackup",Sky Sports Main Event 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/494228.ts
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="SKYGO: SKY SPORTS PREMIER LEAGUE  4K 50 FPS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12261.png?82015" group-title="Sports-ZBackup",Sky Sports Premier League 4K 50fps
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/494227.ts
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="SKYGO: SKY SPORTS PREMIER LEAGUE 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12261.png?82015" group-title="Sports-ZBackup",Sky Sports Premier League 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/494226.ts
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="SKYGO: SKY SPORTS FOOTBALL 4K 50 FPS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11978.png?36330" group-title="Sports-ZBackup",Sky Sports Football 4K 50fps
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/494225.ts
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="SKYGO: SKY SPORTS FOOTBALL 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11978.png?36330" group-title="Sports-ZBackup",Sky Sports Football 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/494224.ts
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="SKYGO: SKY SPORTS ARENA 4K 50 FPS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12258.png?37205" group-title="Sports-ZBackup",Sky Sports Arena 4K 50fps
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/494221.ts
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="SKYGO: SKY SPORTS ARENA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12258.png?37205" group-title="Sports-ZBackup",Sky Sports Arena 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/494220.ts
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="SKYGO: SKY SPORTS ACTION 4K 50 FPS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12244.jpg?65699" group-title="Sports-ZBackup",Sky Sports Action 4K 50fps
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/494219.ts
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="SKYGO: SKY SPORTS GOLF 4K 50 FPS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12243.jpg?43300" group-title="Sports-ZBackup",Sky Sports Golf 4K 50fps
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/494216.ts
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="SKYGO: SKY SPORTS GOLF 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12243.jpg?43300" group-title="Sports-ZBackup",Sky Sports Golf 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/494215.ts
+#EXTINF:-1 tvg-name="SKYGO: SKY SPORTS NFL 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6425.jpg?37550" group-title="Sports-ZBackup",Sky Sports NFL 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/494210.ts
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="SKYGO: EUROSPORT 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/615.jpg?37956" group-title="Sports-ZBackup",Eurosport 1 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/494199.ts
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="SKYGO: EUROSPORT 2 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1423.png?55167" group-title="Sports-ZBackup",Eurosport 2 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/494198.ts
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="VIP: SKY SPORTS NEWS ᴴᴰ ʰᵉᵛᶜ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12268.jpg?8611" group-title="Sports-Sky Sports HEVC",Sky Sports News
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290296.ts
+#EXTINF:-1 tvg-id="SkySportsBoxOffice.uk" tvg-name="VIP: SKY SPORTS BOX OFFICE ᴴᴰ ʰᵉᵛᶜ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10648.jpg?33739" group-title="Sports-Sky Sports HEVC",Sky Sports Box Office
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290295.ts
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="VIP: SKY SPORTS MAIN EVENT ᴴᴰ ʰᵉᵛᶜ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12232.jpg?72698" group-title="Sports-Sky Sports HEVC",Sky Sports Main Event
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290294.ts
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="VIP: SKY SPORTS PREMIER LEAGUE ᴴᴰ ʰᵉᵛᶜ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12261.png?24" group-title="Sports-Sky Sports HEVC",Sky Sports Premier League
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290293.ts
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="VIP: SKY SPORTS FOOTBALL ᴴᴰ ʰᵉᵛᶜ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11978.png?31170" group-title="Sports-Sky Sports HEVC",Sky Sports Football
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290292.ts
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="VIP: SKY SPORTS MIX ᴴᴰ ʰᵉᵛᶜ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12262.jpg?14889" group-title="Sports-Sky Sports HEVC",Sky Sports Mix
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290291.ts
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="VIP: SKY SPORTS ACTION ᴴᴰ ʰᵉᵛᶜ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12244.jpg?22729" group-title="Sports-Sky Sports HEVC",Sky Sports Action
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290290.ts
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="VIP: SKY SPORTS GOLF ᴴᴰ ʰᵉᵛᶜ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12243.jpg?71467" group-title="Sports-Sky Sports HEVC",Sky Sports Golf
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290287.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="VIP: SKY SPORTS F1 ᴴᴰ ʰᵉᵛᶜ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/120/11977.jpg?40915" group-title="Sports-Sky Sports HEVC",Sky Sports F1
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290286.ts
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="VIP: SKY SPORTS MAIN EVENT ⁴ᵏ & ³⁸⁴⁰ᴾ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12232.jpg?72698" group-title="Sports-Sky Sports RAW",Sky Sports Main Event 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290248.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="VIP: SKY SPORTS F1 ⁴ᵏ & ³⁸⁴⁰ᴾ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/120/11977.jpg?40915" group-title="Sports-Sky Sports RAW",Sky Sports F1 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290247.ts
+#EXTINF:-1 tvg-name="VIP: SKY SPORTS 1 ⁴ᵏ & ³⁸⁴⁰ᴾ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11103.png?75964" group-title="Sports-ZBackup",Sky Sports 1 UHD
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290246.ts
+#EXTINF:-1 tvg-name="VIP: SKY SPORTS 2 ⁴ᵏ & ³⁸⁴⁰ᴾ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11976.png?73548" group-title="Sports-ZBackup",Sky Sports 2 UHD
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290245.ts
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="VIP: SKY SPORTS NEWS ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12268.jpg?8611" group-title="Sports-Sky Sports RAW",Sky Sports News
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290243.ts
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="VIP: SKY SPORTS MAIN EVENT ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12232.jpg?72698" group-title="Sports-Sky Sports RAW",Sky Sports Main Event
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290241.ts
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="VIP: SKY SPORTS PREMIER LEAGUE ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12261.png?24" group-title="Sports-Sky Sports RAW",Sky Sports Premier League
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290240.ts
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="VIP: SKY SPORTS FOOTBALL ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11978.png?31170" group-title="Sports-Sky Sports RAW",Sky Sports Football
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290239.ts
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="VIP: SKY SPORTS ACTION ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12244.jpg?22729" group-title="Sports-Sky Sports RAW",Sky Sports Action
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290237.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="VIP: SKY SPORTS F1 ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/120/11977.jpg?40915" group-title="Sports-Sky Sports RAW",Sky Sports F1
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1290235.ts
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="UK: BEIN SP⚽RTS 1 ENGLISH ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1366.png?39011" group-title="Sports-RAW",beIN Sports 1
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/588048.ts
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="UK: BEIN SP⚽RTS 2 ENGLISH ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1365.png?31745" group-title="Sports-RAW",beIN Sports 2
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/588047.ts
+#EXTINF:-1 tvg-name="UK: SKY SPORTS MAIN EVENTS ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12232.jpg?ver=13861" group-title="Sports-Sky Sports RAW",Sky Sports Main Event UHD
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/950402.ts
+#EXTINF:-1 tvg-name="UK: SKY SPORTS 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6450.jpg?58756" group-title="Sports-Sky Sports RAW",Sky Sports 1 UHD
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/950400.ts
+#EXTINF:-1 tvg-name="UK: SKY SPORTS 2 ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11976.png?ver=27794" group-title="Sports-Sky Sports RAW",Sky Sports 2 UHD
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/950399.ts
+#EXTINF:-1 tvg-name="UK: TNT SPORT ULTIMATE ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1070.png?ver=99413" group-title="Sports-TNT Sports RAW",TNT Sport Ultimate 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1069751.ts
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK: SKY SPORTS NEWS ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12268.jpg?36647" group-title="Sports-Sky Sports RAW",Sky Sports News
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/588037.ts
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK: SKY SPORTS PREMIER LEAGUE ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12261.png?ver=59721" group-title="Sports-Sky Sports RAW",Sky Sports Premier League
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/588026.ts
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK: SKY SPORTS MAIN EVENT ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12232.jpg?31368" group-title="Sports-Sky Sports RAW",Sky Sports Main Event
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/588046.ts
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK: SKY SPORTS FOOTBALL ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6441.png?32706" group-title="Sports-Sky Sports RAW",Sky Sports Football
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/588044.ts
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK: SKY SPORTS ACTION ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12244.jpg?ver=25444" group-title="Sports-Sky Sports RAW",Sky Sports Action
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/588043.ts
+#EXTINF:-1 tvg-name="UK: BFBS SPORT 1 ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11104.png?96689" group-title="Sports-RAW",BFBS Sport 1
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1232964.ts
+#EXTINF:-1 tvg-name="UK: BFBS SPORT 2 ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11104.png?96689" group-title="Sports-RAW",BFBS Sport 2
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1232963.ts
+#EXTINF:-1 tvg-name="UK: BFBS SPORT 3 ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11104.png?96689" group-title="Sports-RAW",BFBS Sport 3
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1232962.ts
+#EXTINF:-1 tvg-name="UK: BFBS SPORT 4 ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11104.png?96689" group-title="Sports-RAW",BFBS Sport 4
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1232961.ts
+#EXTINF:-1 tvg-name="UK: BFBS SPORT 5 ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11104.png?96689" group-title="Sports-RAW",BFBS Sport 5
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1232960.ts
+#EXTINF:-1 tvg-name="UK: BFBS SPORT 6 ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11104.png?96689" group-title="Sports-RAW",BFBS Sport 6
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1232959.ts
+#EXTINF:-1 tvg-id="ViaplaySports1.uk" tvg-name="UK: VIAPLAY SPORT 1 ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10148.png?53920" group-title="Sports-RAW",ViaPlay Sports 1
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/587990.ts
+#EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="UK: VIAPLAY SPORTS 2 ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10148.png?53920" group-title="Sports-RAW",ViaPlay Sports 2
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/587989.ts
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK: EUROSPORT 1 ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1422.jpg?68285" group-title="Sports-RAW",Eurosport 1
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/587994.ts
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK: EUROSPORT 2 ᴿᴬᵂ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1423.png?46329" group-title="Sports-RAW",Eurosport 2
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/587993.ts
+#EXTINF:-1 tvg-id="ViaplaySports1.uk" tvg-name="UK: VIAPLAY 1 HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12878.png?614" group-title="Sports-HEVC",ViaPlay 1
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/621646.ts
+#EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="UK: VIAPLAY 2 HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12878.png?614" group-title="Sports-HEVC",ViaPlay 2
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/621645.ts
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK: EUROSPORTS 1 HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12985.png?74763" group-title="Sports-HEVC",Eurosport 1
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/621644.ts
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK: EUROSPORTS 2 HEVC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12985.png?74763" group-title="Sports-HEVC",Eurosport 2
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/621643.ts
+#EXTINF:-1 tvg-id="ViaplaySports1.uk" tvg-name="UK: VIAPLAY 1 HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12878.png?50188" group-title="Sports-HEVC",ViaPlay 1 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/621624.ts
+#EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="UK: VIAPLAY 2 HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12878.png?50188" group-title="Sports-HEVC",ViaPlay 2 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/621623.ts
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK: EUROSPORTS 1 HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12985.png?20143" group-title="Sports-HEVC",Eurosport 1 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/621622.ts
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK: EUROSPORTS 2 HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12985.png?20143" group-title="Sports-HEVC",Eurosport 2 4K
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/621621.ts
+#EXTINF:-1 tvg-name="UK: EPL beIN ENGLISH 1 STABLE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Sports-Premier League",beIN English 1
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1225642.ts
+#EXTINF:-1 tvg-name="UK: EPL beIN ENGLISH 2 STABLE" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Sports-Premier League",beIN English 2
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1225641.ts
+#EXTINF:-1 tvg-name="UK: EPL MANCHESTER UTD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10150.png?87923" group-title="Sports-Premier League",EPL-Manchester United
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/607460.ts
+#EXTINF:-1 tvg-name="UK: EPL MANCHESTER CITY" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10814.png?14643" group-title="Sports-Premier League",EPL-Manchester City
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/607459.ts
+#EXTINF:-1 tvg-name="UK: EPL LIVERPOOL" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1878.png?7165" group-title="Sports-Premier League",EPL-Liverpool
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/607458.ts
+#EXTINF:-1 tvg-name="UK: EPL TOTTENHAM" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10139.png?45372" group-title="Sports-Premier League",EPL-Tottenham
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/607463.ts
+#EXTINF:-1 tvg-name="UK: EPL ARSENAL" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8264.png?22569" group-title="Sports-Premier League",EPL-Arsenal
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/607449.ts
+#EXTINF:-1 tvg-name="UK: EPL BRIGHTON" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12517.png?50228" group-title="Sports-Premier League",EPL-Brighton
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/607453.ts
+#EXTINF:-1 tvg-name="UK: EPL 1 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=52004" group-title="Sports-Premier League",EPL-PPV 1 UHD
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/661427.ts
+#EXTINF:-1 tvg-name="UK: EPL 2 PPV ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13719.png?ver=52004" group-title="Sports-Premier League",EPL-PPV 2 UHD
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/661426.ts
+#EXTINF:-1 tvg-name="F1:  RACE FEED" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13263.png?ver=22741" group-title="Sports-F1",F1 - Race Feed
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1367515.ts
+#EXTINF:-1 tvg-name="F1: RACE DATA FEED" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13263.png?ver=22741" group-title="Sports-F1",F1 - Race Data Feed
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1367514.ts
+#EXTINF:-1 tvg-name="F1: UHD FEED" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13263.png?ver=22741" group-title="Sports-F1",F1 - UHD Feed
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1367513.ts
+#EXTINF:-1 tvg-name="F1: RACE TRACKER FEED" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13263.png?ver=22741" group-title="Sports-F1",F1 - Race Tracker Feed
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1367512.ts
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="US: HBO HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/2279.jpg?55933" group-title="Movies-HEVC",HBO
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325973.ts
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="US: HBO 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/4009.jpg?12996" group-title="Movies-HEVC",HBO 2
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325976.ts
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="US: HBO FAMILY HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9729.png?22984" group-title="Movies-HEVC",HBO Family
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325974.ts
+#EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="US: HBO SIGNATURE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9720.jpg?68846" group-title="Movies-HEVC",HBO Signature
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325972.ts
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="US: HBO WEST HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/2279.jpg?19723" group-title="Movies-HEVC",HBO West
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325990.ts
+#EXTINF:-1 tvg-id="Epix.us" tvg-name="US: EPIX HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8204.jpg?46867" group-title="Movies-HEVC",Epix
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325977.ts
+#EXTINF:-1 tvg-name="US: EPIX 2" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8204.jpg?6338" group-title="Movies-HEVC",Epix 2
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325985.ts
+#EXTINF:-1 tvg-id="EpixHits.us" tvg-name="US: EPIX HITS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8204.jpg?6338" group-title="Movies-HEVC",Epix Hits
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325986.ts
+#EXTINF:-1 tvg-id="ScreenPix.us" tvg-name="US: SCREENPIX HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1967.png?10166" group-title="Movies-HEVC",Screenpix
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/326002.ts
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="US: SHOWTIME HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8130.jpg?20531" group-title="Movies-HEVC",Showtime
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325964.ts
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="US: CINEMAX HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8281.jpg?41462" group-title="Movies-HEVC",Cinemax
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325981.ts
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="US: STARZ HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="Movies-HEVC",Starz
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325947.ts
+#EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="US: STARZ CINEMA HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="Movies-HEVC",Starz Cinema
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325959.ts
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="US: FOX SPORTS 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/609.png?46964" group-title="Sports-US Channels",Fox Sports 1
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325017.ts
+#EXTINF:-1 tvg-id="FOXSports.us" tvg-name="US: FOX SPORTS DETROIT HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/609.png?46964" group-title="Sports-US Channels",Fox Sports Detroit
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325014.ts
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="US: FOX SPORTS 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/609.png?46964" group-title="Sports-US Channels",Fox Sports 2
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325016.ts
+#EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-name="US: FOX SOCCER PLUS HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8249.jpg?77346" group-title="Sports-US Channels",Fox Soccer+
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325018.ts
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="US: NFL NETWORK HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8191.jpg?3819" group-title="Sports-US Channels",NFL Network
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/395713.ts
+#EXTINF:-1 tvg-name="US: ELEVEN SPORTS HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11211.png?ver=11571" group-title="Sports-US Channels",11 Sports
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325022.ts
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="US: ESPN HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8258.jpg?ver=35784" group-title="Sports-US Channels",ESPN
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325020.ts
+#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="US: ESPN NEWS HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8260.png?68747" group-title="Sports-US Channels",ESPN News
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325019.ts
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-name="US: FUBO SPORTS 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7646.png?98529" group-title="Sports-US Channels",Fubo Sports 1
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325090.ts
+#EXTINF:-1 tvg-name="US: FUBO SPORTS 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7646.png?98529" group-title="Sports-US Channels",Fubo Sports 2
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325089.ts
+#EXTINF:-1 tvg-name="US: FUBO SPORTS 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/120/7646.png?98529" group-title="Sports-US Channels",Fubo Sports 3
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325088.ts
+#EXTINF:-1 tvg-name="US: FUBO SPORTS 4 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7646.png?98529" group-title="Sports-US Channels",Fubo Sports 4
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325087.ts
+#EXTINF:-1 tvg-name="US: FUBO SPORTS 5 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7646.png?98529" group-title="Sports-US Channels",Fubo Sports 5
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325086.ts
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-name="US: FUBO SPORTS NETWORK HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7646.png?59755" group-title="Sports-US Channels",Fubo Sports Network
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325046.ts
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="US: CBS SPORTS NETWORK HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8282.jpg?46491" group-title="Sports-US Channels",CBS Sports Network
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325023.ts
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="US: MLB NETWORK" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8211.png?85503" group-title="Sports-US Channels",MLB Network
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325002.ts
+#EXTINF:-1 tvg-name="US: MLB STRIKE ZONE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9740.jpg?65973" group-title="Sports-US Channels",MLB StrikeZone
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325049.ts
+#EXTINF:-1 tvg-name="US: NBC SPORTS NETWORK" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8202.png?21398" group-title="Sports-US Channels",NBC Sports Network
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325067.ts
+#EXTINF:-1 tvg-id="NewEnglandSportsNetwork.us" tvg-name="US: NESN ᵁᴴᴰ 3840P" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12004.jpg?41752" group-title="Sports-US Channels",NESN UHD
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/828142.ts
+#EXTINF:-1 tvg-name="US: NESN HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12004.jpg?41752" group-title="Sports-US Channels",NESN
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/828140.ts
+#EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="US: YES NETWORK HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13325.jpg?63201" group-title="Sports-US Channels",YES Network
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/325036.ts
+#EXTINF:-1 tvg-name="US: NFL NETWORK ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" group-title="Sports-NFL",NFL Network
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1031378.ts
+#EXTINF:-1 tvg-name="US: NFL REDZONE ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" group-title="Sports-NFL",NFL RedZone
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/1031379.ts
+#EXTINF:-1 tvg-name="NFL  | 01 - NFL Draft 5:00pm UK" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" group-title="Sports-NFL",NFL-Feed 1
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/606180.ts
+#EXTINF:-1 tvg-name="NFL  | 02 -" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" group-title="Sports-NFL",NFL-Feed 2
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/606179.ts
+#EXTINF:-1 tvg-name="NFL  | 03 -" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" group-title="Sports-NFL",NFL-Feed 3
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/606178.ts
+#EXTINF:-1 tvg-name="NFL  | 04 -" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" group-title="Sports-NFL",NFL-Feed 4
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/606177.ts
+#EXTINF:-1 tvg-name="NFL  | 05 -" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" group-title="Sports-NFL",NFL-Feed 5
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/606176.ts
+#EXTINF:-1 tvg-name="NFL  | 06 -" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" group-title="Sports-NFL",NFL-Feed 6
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/606175.ts
+#EXTINF:-1 tvg-name="NFL  | 07 -" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" group-title="Sports-NFL",NFL-Feed 7
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/606174.ts
+#EXTINF:-1 tvg-name="NFL  | 08 -" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" group-title="Sports-NFL",NFL-Feed 8
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/606173.ts
+#EXTINF:-1 tvg-name="NFL  | 09 -" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" group-title="Sports-NFL",NFL-Feed 9
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/606172.ts
+#EXTINF:-1 tvg-name="NFL  | 10 -" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" group-title="Sports-NFL",NFL-Feed 10
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/606171.ts
+#EXTINF:-1 tvg-name="NFL  | 11 -" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" group-title="Sports-NFL",NFL-Feed 11
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/606170.ts
+#EXTINF:-1 tvg-name="NFL  | 12 -" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" group-title="Sports-NFL",NFL-Feed 12
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/606169.ts
+#EXTINF:-1 tvg-name="NFL  | 13 -" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" group-title="Sports-NFL",NFL-Feed 13
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/606168.ts
+#EXTINF:-1 tvg-name="NFL  | 14 -" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" group-title="Sports-NFL",NFL-Feed 14
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/606167.ts
+#EXTINF:-1 tvg-name="NFL  | 15 -" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" group-title="Sports-NFL",NFL-Feed 15
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/606166.ts
+#EXTINF:-1 tvg-name="NFL  | 16 -" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13831.png?ver=91012" group-title="Sports-NFL",NFL-Feed 16
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/606165.ts
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB: MLB NETWORK" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8211.png?ver=9960" group-title="Sports-MLB",MLB Network
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/431198.ts
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB: MLB NETWORK (US)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8211.png?ver=9960" group-title="Sports-MLB",MLB Network 2
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/431197.ts
+#EXTINF:-1 tvg-name="US: MLB DETROIT TIGERS HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8211.png?ver=9960" group-title="Sports-MLB",MLB-Detroit Tigers
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/762731.ts
+#EXTINF:-1 tvg-name="US: MLB NEW YORK YANKEES HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8211.png?ver=9960" group-title="Sports-MLB",MLB-New York Yankees
+http://blogs12503.cdn-akm.me/live/fcda59a2a57e/bc9d3005e1/762704.ts
